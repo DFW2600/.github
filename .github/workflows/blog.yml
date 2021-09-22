@@ -14,9 +14,12 @@ on:
     types:
       - webhook
 
+env:
+  RSS_FEEDS: https://www.reddit.com/r/2600.rss,https://2600.com/rss.xml
+
 jobs:
-  pre-job:
-    name: Pre-job
+
+  prebuild:
     runs-on: ubuntu-latest
 
     steps:
@@ -33,5 +36,5 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@1.5.6
         with:
           gh_token: ${{ github.token }}
-          feed_list: https://www.reddit.com/r/2600.rss,https://2600.com/rss.xml
+          feed_list: ${{ env.RSS_FEEDS }}
           readme_path: ./profile/README.md
