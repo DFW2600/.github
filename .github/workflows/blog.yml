@@ -31,3 +31,4 @@ jobs:
           gh_token: ${{ github.token }}
           feed_list: |
              https://www.reddit.com/r/2600.rss
+          readme: profile/readme.md
