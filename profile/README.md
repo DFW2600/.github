@@ -1,4 +1,4 @@
-## r2600
+## 2600 Hacker Quarterly subreddit and Dallas/Fort Worth Meetup group
 The semi-official subreddit for readers of the infamous little magazine at your local bookstore--full of goodies for the aspiring hacker. Please do not post links that violate the reddit's user agreement.
 
 Want to see a new feature or contribute: 
