@@ -1,0 +1,11 @@
+{
+    "name": "Github Profile blog updater",
+    "description": "2600 profile updater",
+    "iconName": "phone",
+    "categories": [
+        "Utilities"
+    ],
+    "filePatterns": [
+        "^README.md$"
+    ]
+}
