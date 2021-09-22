@@ -15,24 +15,23 @@ on:
       - webhook
 
 jobs:
-  
-    pre-job:
-      name: Pre-job
-      runs-on: ubuntu-latest
+  pre-job:
+    name: Pre-job
+    runs-on: ubuntu-latest
 
-      steps:
-        - uses: technote-space/auto-cancel-redundant-workflow@v1
-        - name: Cancel redundant workflows
-          run: echo "Cancel redundant workflows finished"
+    steps:
+      - uses: technote-space/auto-cancel-redundant-workflow@v1
+      - name: Cancel redundant workflows
+        run: echo "Cancel redundant workflows finished"
           
-    build:
-      runs-on: ubuntu-latest
-      
-      steps:
-        - uses: actions/checkout@v2
-        - name: Blog Post Workflow
-          uses: gautamkrishnar/blog-post-workflow@1.5.6
-          with:
-            gh_token: ${{ github.token }}
-            feed_list: https://www.reddit.com/r/2600.rss
-            readme_path: ./profile/README.md
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - name: Blog Post Workflow
+        uses: gautamkrishnar/blog-post-workflow@1.5.6
+        with:
+          gh_token: ${{ github.token }}
+          feed_list: https://www.reddit.com/r/2600.rss
+          readme_path: ./profile/README.md
