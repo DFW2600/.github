@@ -7,9 +7,9 @@ on:
     branches: [ $default-branch ]
   pull_request:
     branches: [ $default-branch ]
-
-  workflow_dispatch:
-  
+  schedule: # Run workflow automatically
+    - cron: '0 * * * *' # Runs every hour, on the hour
+  workflow_dispatch: {}
   repository_dispatch:
     types:
       - webhook
