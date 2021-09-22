@@ -1,0 +1,11 @@
+{
+    "name": "2600 Build Docker image Workflow",
+    "description": "Builds and validates docker images for security and deploys to remote repos",
+    "iconName": "phone-incoming",
+    "categories": [
+        "serverless"
+    ],
+    "filePatterns": [
+        "^Dockerfile"
+    ]
+}
