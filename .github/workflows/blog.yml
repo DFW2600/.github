@@ -33,5 +33,5 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@1.5.6
         with:
           gh_token: ${{ github.token }}
-          feed_list: https://www.reddit.com/r/2600.rss
+          feed_list: https://www.reddit.com/r/2600.rss,https://2600.com/rss.xml
           readme_path: ./profile/README.md
