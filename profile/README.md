@@ -9,6 +9,6 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 - [LOST AUDIO POSTED FOR WEDNESDAY, SEPTEMBER 22](https://2600.com/content/lost-audio-posted-wednesday-september-22)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/21-09-2021)
 - [Hackers Find Missing People For Fun](https://www.reddit.com/r/2600/comments/ps6utj/hackers_find_missing_people_for_fun/)
-- [NEW 'Off The Hook' ONLINE](https://2600.com/hook/15-09-2021)
 - [Tech Workers Rebel Against a Lame-Ass Internet by Bringing Back 'GeoCities-style' WebRings - "In response to today’s Internet, where user experience is mediated... by a few corporations who profit by stimulating and sustaining users’ attention, the internet is experiencing a resurgence in WebRings."](https://www.reddit.com/r/2600/comments/plijgl/tech_workers_rebel_against_a_lameass_internet_by/)
+- [Peripheral efficiency](https://www.reddit.com/r/2600/comments/plgvwn/peripheral_efficiency/)
 <!-- BLOG-POST-LIST:END -->
