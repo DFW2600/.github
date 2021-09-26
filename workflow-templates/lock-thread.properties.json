@@ -1,0 +1,11 @@
+{
+    "name": "2600 Lock issue threads Workflow",
+    "description": "Locks old/closed threads for a repos",
+    "iconName": "lock",
+    "categories": [
+        "github"
+    ],
+    "filePatterns": [
+        "*"
+    ]
+}
