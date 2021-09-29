@@ -7,8 +7,8 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
 - [LOST AUDIO POSTED FOR TUESDAY, SEPTEMBER 28](https://2600.com/content/lost-audio-posted-tuesday-september-28)
-- [NEW 'Off The Wall' ONLINE](https://2600.com/wall/21-09-2021)
 - [Hackers Find Missing People For Fun](https://www.reddit.com/r/2600/comments/ps6utj/hackers_find_missing_people_for_fun/)
 - [Tech Workers Rebel Against a Lame-Ass Internet by Bringing Back 'GeoCities-style' WebRings - "In response to today’s Internet, where user experience is mediated... by a few corporations who profit by stimulating and sustaining users’ attention, the internet is experiencing a resurgence in WebRings."](https://www.reddit.com/r/2600/comments/plijgl/tech_workers_rebel_against_a_lameass_internet_by/)
 - [Peripheral efficiency](https://www.reddit.com/r/2600/comments/plgvwn/peripheral_efficiency/)
+- [SUMMER ISSUE OF 2600 RELEASED](https://2600.com/content/summer-issue-2600-released-16)
 <!-- BLOG-POST-LIST:END -->
