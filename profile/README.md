@@ -8,7 +8,7 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 <!-- BLOG-POST-LIST:START -->
 - [LOST AUDIO POSTED FOR THURSDAY, OCTOBER 21](https://2600.com/content/lost-audio-posted-thursday-october-21)
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/20-10-2021)
-- [BAFFIN ISLAND - THE PHONE SYSTEM - APRIL 1987](https://2600.com/audio-segment/baffin-island-phone-system-april-1987)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/19-10-2021)
 - [My kind of hacker hideout..](https://www.reddit.com/r/2600/comments/q3cpe8/my_kind_of_hacker_hideout/)
+- [Hackers Find Missing People For Fun](https://www.reddit.com/r/2600/comments/ps6utj/hackers_find_missing_people_for_fun/)
 <!-- BLOG-POST-LIST:END -->
