@@ -6,7 +6,7 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
-- [LOST AUDIO POSTED FOR THURSDAY, OCTOBER 21](https://2600.com/content/lost-audio-posted-thursday-october-21)
+- [LOST AUDIO POSTED FOR FRIDAY, OCTOBER 22](https://2600.com/content/lost-audio-posted-friday-october-22)
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/20-10-2021)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/19-10-2021)
 - [My kind of hacker hideout..](https://www.reddit.com/r/2600/comments/q3cpe8/my_kind_of_hacker_hideout/)
