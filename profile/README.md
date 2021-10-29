@@ -6,7 +6,7 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
-- [LOST AUDIO POSTED FOR THURSDAY, OCTOBER 28](https://2600.com/content/lost-audio-posted-thursday-october-28)
+- [LOST AUDIO POSTED FOR FRIDAY, OCTOBER 29](https://2600.com/content/lost-audio-posted-friday-october-29)
 - [Abandoned pay phone, Brazil](https://www.reddit.com/r/2600/comments/qhcntg/abandoned_pay_phone_brazil/)
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/27-10-2021)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/26-10-2021)
