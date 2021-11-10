@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [NEW 'Off The Wall' ONLINE](https://2600.com/wall/09-11-2021)
 - [So a normie rolls up and starts talking about routers and firewalls, do you join the partyvan?](https://www.reddit.com/r/2600/comments/qpmndb/so_a_normie_rolls_up_and_starts_talking_about/)
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/03-11-2021)
 - [LOST **VIDEO** POSTED FOR SUNDAY, OCTOBER 31 - FINAL POSTING](https://2600.com/content/lost-video-posted-sunday-october-31-final-posting)
 - [Anyone interested in saving some telecom history?](https://www.reddit.com/r/2600/comments/qiylh2/anyone_interested_in_saving_some_telecom_history/)
-- [Abandoned pay phone, Brazil](https://www.reddit.com/r/2600/comments/qhcntg/abandoned_pay_phone_brazil/)
 <!-- BLOG-POST-LIST:END -->
