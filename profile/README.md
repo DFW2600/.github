@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [Painted over Boston payphone](https://www.reddit.com/r/2600/comments/rhtegf/painted_over_boston_payphone/)
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/15-12-2021)
 - [Log dump: Strange message from sysop](https://www.reddit.com/r/2600/comments/rgrvxk/log_dump_strange_message_from_sysop/)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/14-12-2021)
 - [Nyxt: the hacker's power-browser.](https://www.reddit.com/r/2600/comments/reqq5w/nyxt_the_hackers_powerbrowser/)
-- [Julian Assange can be extradited to the US #savejulian](https://www.reddit.com/r/2600/comments/rdcrcf/julian_assange_can_be_extradited_to_the_us/)
 <!-- BLOG-POST-LIST:END -->
