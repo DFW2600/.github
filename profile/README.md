@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [NEW 'Off The Wall' ONLINE](https://2600.com/wall/21-12-2021)
 - [[Events] Yule Party conference for everyone! Dec 22th @ 7pm](https://www.reddit.com/r/2600/comments/rjkdzx/events_yule_party_conference_for_everyone_dec/)
 - [Old rotary phone that still works I found way back in the shop at work.](https://www.reddit.com/r/2600/comments/rjc4bc/old_rotary_phone_that_still_works_i_found_way/)
 - [Painted over Boston payphone](https://www.reddit.com/r/2600/comments/rhtegf/painted_over_boston_payphone/)
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/15-12-2021)
-- [Log dump: Strange message from sysop](https://www.reddit.com/r/2600/comments/rgrvxk/log_dump_strange_message_from_sysop/)
 <!-- BLOG-POST-LIST:END -->
