@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [Happy New Years!!](https://www.reddit.com/r/2600/comments/rtehy2/happy_new_years/)
 - [DFW2600 Member Meetup and Open Social | Meetup](https://www.reddit.com/r/2600/comments/rszvcp/dfw2600_member_meetup_and_open_social_meetup/)
 - [The Payphone Project](https://www.reddit.com/r/2600/comments/rspfkw/the_payphone_project/)
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/29-12-2021)
 - [Ethercombing: Finding Secrets in Popular Places](https://www.reddit.com/r/2600/comments/rrp8a9/ethercombing_finding_secrets_in_popular_places/)
-- [NEW 'Off The Wall' ONLINE](https://2600.com/wall/28-12-2021)
 <!-- BLOG-POST-LIST:END -->
