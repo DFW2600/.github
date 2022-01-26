@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [NEW 'Off The Wall' ONLINE](https://2600.com/wall/25-01-2022)
 - [Phone Porn. Brazil](https://www.reddit.com/r/2600/comments/sc05gz/phone_porn_brazil/)
 - [A NEW HOPE IS ON THE HORIZON](https://2600.com/content/new-hope-horizon-0)
 - [Demo Scene](https://www.reddit.com/r/2600/comments/sb8lvi/demo_scene/)
 - [Hackers.com](https://www.reddit.com/r/2600/comments/safhji/hackerscom/)
-- [How did I not know about Weyland-Yutani Corporation. Specially since its known for controlling much of the space-faring world including technology, colonizing, exploration, and scientific research](https://www.reddit.com/r/2600/comments/s9twn7/how_did_i_not_know_about_weylandyutani/)
 <!-- BLOG-POST-LIST:END -->
