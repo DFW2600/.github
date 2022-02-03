@@ -9,6 +9,6 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/01-02-2022)
 - [Is QNAP Security Any Good? TLDR; Answer No.](https://www.reddit.com/r/2600/comments/sgkq89/is_qnap_security_any_good_tldr_answer_no/)
 - [CALL FOR PARTICIPATION RELEASED FOR A NEW HOPE](https://2600.com/content/call-participation-released-new-hope)
-- [NEW 'Off The Hook' ONLINE](https://2600.com/hook/26-01-2022)
 - [Phone Porn. Payphones of the world.](https://www.reddit.com/r/2600/comments/sdhfgs/phone_porn_payphones_of_the_world/)
+- [Phone Porn. Brazil](https://www.reddit.com/r/2600/comments/sc05gz/phone_porn_brazil/)
 <!-- BLOG-POST-LIST:END -->
