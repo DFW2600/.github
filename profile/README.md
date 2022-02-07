@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [I came across this article about a "blue box" from the Arizona Republic newspaper dated March 23rd 1982...Thought ya'll might find it to be amusing. Enjoy!](https://www.reddit.com/r/2600/comments/sn11m7/i_came_across_this_article_about_a_blue_box_from/)
 - [Two photo ops with red boxes. Who wore it better?](https://www.reddit.com/r/2600/comments/sm59pg/two_photo_ops_with_red_boxes_who_wore_it_better/)
 - [RedBox found in the wild. ( Custom build. )](https://www.reddit.com/r/2600/comments/slon6y/redbox_found_in_the_wild_custom_build/)
 - [#OffTheWall is here, do you know where your memes are?](https://www.reddit.com/r/2600/comments/sljg4f/offthewall_is_here_do_you_know_where_your_memes/)
 - [She was a notorious hacker in the ’80s — then she disappeared](https://www.reddit.com/r/2600/comments/sled4v/she_was_a_notorious_hacker_in_the_80s_then_she/)
-- [Modular emergency IT deck. Redundant raspberry pis for compute. Gear to interface with basically anything that needs fixing / takeover. Less frame and switches than most projects here because I wanted everything to be immediately accessible and swappable.](https://www.reddit.com/r/2600/comments/sjskkj/modular_emergency_it_deck_redundant_raspberry_pis/)
 <!-- BLOG-POST-LIST:END -->
