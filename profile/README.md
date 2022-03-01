@@ -8,7 +8,7 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 <!-- BLOG-POST-LIST:START -->
 - [Nineteen Eighty-Five](https://www.reddit.com/r/2600/comments/t4b6ov/nineteen_eightyfive/)
 - [Houston 2600 Meeting: Friday, March 4, 2022](https://www.reddit.com/r/2600/comments/t3yvn5/houston_2600_meeting_friday_march_4_2022/)
-- [DEADLINE FOR EARLY SUBMISSION HOPE TALKS IS TODAY!](https://2600.com/content/deadline-early-submission-hope-talks-today)
 - [Looking for help](https://www.reddit.com/r/2600/comments/t2ecsm/looking_for_help/)
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/23-02-2022)
+- [NEW 'Off The Wall' ONLINE](https://2600.com/wall/22-02-2022)
 <!-- BLOG-POST-LIST:END -->
