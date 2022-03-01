@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [Houston 2600 Meeting: Friday, March 4, 2022](https://www.reddit.com/r/2600/comments/t3yvn5/houston_2600_meeting_friday_march_4_2022/)
 - [DEADLINE FOR EARLY SUBMISSION HOPE TALKS IS TODAY!](https://2600.com/content/deadline-early-submission-hope-talks-today)
 - [Looking for help](https://www.reddit.com/r/2600/comments/t2ecsm/looking_for_help/)
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/23-02-2022)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/22-02-2022)
-- [How to Tell If Your Phone Is Tapped: 7 Warning Signs](https://www.reddit.com/r/2600/comments/szpio8/how_to_tell_if_your_phone_is_tapped_7_warning/)
 <!-- BLOG-POST-LIST:END -->
