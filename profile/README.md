@@ -8,7 +8,7 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 <!-- BLOG-POST-LIST:START -->
 - [Sir Terry Pratchett's /Going Postal/. He was one of us.](https://www.reddit.com/r/2600/comments/tc6ncj/sir_terry_pratchetts_going_postal_he_was_one_of_us/)
 - [Russian computer and dial-up phone seized by the Ukrainian army](https://www.reddit.com/r/2600/comments/tasyml/russian_computer_and_dialup_phone_seized_by_the/)
-- [#westandwithukraine - Current events being crazy as they are we're needing help getting the following site archived for the archiveteam and put on ipfs.](https://www.reddit.com/r/2600/comments/t8odo0/westandwithukraine_current_events_being_crazy_as/)
-- [Ukraine's Hacker Army Is Targeting Russia](https://www.reddit.com/r/2600/comments/t5tp6y/ukraines_hacker_army_is_targeting_russia/)
-- [Nineteen Eighty-Five](https://www.reddit.com/r/2600/comments/t4b6ov/nineteen_eightyfive/)
+- [NEW 'Off The Hook' ONLINE](https://2600.com/hook/09-03-2022)
+- [WINTER ISSUE OF 2600 RELEASED](https://2600.com/content/winter-issue-2600-released-14)
+- [NEW 'Off The Wall' ONLINE](https://2600.com/wall/08-03-2022)
 <!-- BLOG-POST-LIST:END -->
