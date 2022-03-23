@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [NEW 'Off The Wall' ONLINE](https://2600.com/wall/22-03-2022)
 - [Team Green ready for first strike](https://www.reddit.com/r/2600/comments/tifr8p/team_green_ready_for_first_strike/)
 - [Oligarchs puts million-dollar bounty on Vladimir Putin's head (unconfirmed)](https://www.reddit.com/r/2600/comments/ti763k/oligarchs_puts_milliondollar_bounty_on_vladimir/)
 - [An old payphone giving in to the elements (Kauai, Hawaii)](https://www.reddit.com/r/2600/comments/tguxxv/an_old_payphone_giving_in_to_the_elements_kauai/)
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/16-03-2022)
-- [NEW 'Off The Wall' ONLINE](https://2600.com/wall/15-03-2022)
 <!-- BLOG-POST-LIST:END -->
