@@ -10,5 +10,5 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 - [Team Green ready for first strike](https://www.reddit.com/r/2600/comments/tifr8p/team_green_ready_for_first_strike/)
 - [Oligarchs puts million-dollar bounty on Vladimir Putin's head (unconfirmed)](https://www.reddit.com/r/2600/comments/ti763k/oligarchs_puts_milliondollar_bounty_on_vladimir/)
 - [An old payphone giving in to the elements (Kauai, Hawaii)](https://www.reddit.com/r/2600/comments/tguxxv/an_old_payphone_giving_in_to_the_elements_kauai/)
-- [NEW 'Off The Hook' ONLINE](https://2600.com/hook/16-03-2022)
+- [Dumpster Diver's Fund founder AMA interview](https://www.reddit.com/r/2600/comments/texcy9/dumpster_divers_fund_founder_ama_interview/)
 <!-- BLOG-POST-LIST:END -->
