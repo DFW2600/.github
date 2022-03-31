@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [What happens when an old satellite is no longer in use but can still broadcast? Hacker shenanigans, that's what.](https://www.reddit.com/r/2600/comments/tsv3im/what_happens_when_an_old_satellite_is_no_longer/)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/29-03-2022)
 - [Looking for working pay phone](https://www.reddit.com/r/2600/comments/tn79vz/looking_for_working_pay_phone/)
 - [Team Amber Rolling In From The Squad Car](https://www.reddit.com/r/2600/comments/tm0x82/team_amber_rolling_in_from_the_squad_car/)
 - [Team Green ready for first strike](https://www.reddit.com/r/2600/comments/tifr8p/team_green_ready_for_first_strike/)
-- [Oligarchs puts million-dollar bounty on Vladimir Putin's head (unconfirmed)](https://www.reddit.com/r/2600/comments/ti763k/oligarchs_puts_milliondollar_bounty_on_vladimir/)
 <!-- BLOG-POST-LIST:END -->
