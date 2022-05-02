@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [A list of VIPs found in a dumpster.](https://www.reddit.com/r/2600/comments/ugxo0b/a_list_of_vips_found_in_a_dumpster/)
 - [What is 2600's Mastodon page address?](https://www.reddit.com/r/2600/comments/ufd4c2/what_is_2600s_mastodon_page_address/)
 - [reposted due to potentially d0xxing someone. The landline service came through today.](https://www.reddit.com/r/2600/comments/uf11de/reposted_due_to_potentially_d0xxing_someone_the/)
 - [HOPE TICKET SALE FUNDRAISER FOR EFF EXTENDED UNTIL MAY 6](https://2600.com/content/hope-ticket-sale-fundraiser-eff-extended-until-may-6)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/26-04-2022)
-- [CenturyLink will be (should be) turning on phone service tomorrow, so I set this phone up on the kitchen counter. 1337](https://www.reddit.com/r/2600/comments/uc2069/centurylink_will_be_should_be_turning_on_phone/)
 <!-- BLOG-POST-LIST:END -->
