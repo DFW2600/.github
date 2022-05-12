@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [NEW 'Off The Hook' ONLINE](https://2600.com/hook/11-05-2022)
 - [VIRTUAL TICKETS TO HOPE NOW AVAILABLE](https://2600.com/content/virtual-tickets-hope-now-available)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/10-05-2022)
 - [Hi-Tech Tailgating With Thermal Imaging](https://www.reddit.com/r/2600/comments/uliye0/hitech_tailgating_with_thermal_imaging/)
 - [Wanted to share this pool-side beauty. It came with the house.](https://www.reddit.com/r/2600/comments/uj6ey5/wanted_to_share_this_poolside_beauty_it_came_with/)
-- [Fresh](https://www.reddit.com/r/2600/comments/uiecl2/fresh/)
 <!-- BLOG-POST-LIST:END -->
