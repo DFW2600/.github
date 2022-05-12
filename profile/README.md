@@ -10,5 +10,5 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/10-05-2022)
 - [Hi-Tech Tailgating With Thermal Imaging](https://www.reddit.com/r/2600/comments/uliye0/hitech_tailgating_with_thermal_imaging/)
 - [Wanted to share this pool-side beauty. It came with the house.](https://www.reddit.com/r/2600/comments/uj6ey5/wanted_to_share_this_poolside_beauty_it_came_with/)
-- [NEW 'Off The Hook' ONLINE](https://2600.com/hook/04-05-2022)
+- [Fresh](https://www.reddit.com/r/2600/comments/uiecl2/fresh/)
 <!-- BLOG-POST-LIST:END -->
