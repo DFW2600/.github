@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [DEADLINE FOR SUBMITTING HOPE TALK PROPOSALS  IS MAY 31, 2022!](https://2600.com/content/deadline-submitting-hope-talk-proposals-may-31-2022)
 - [Last NYC public payphone being removed](https://www.reddit.com/r/2600/comments/uw385g/last_nyc_public_payphone_being_removed/)
 - [DOJ says it will no longer prosecute good-faith hackers under CFAA – TechCrunch](https://www.reddit.com/r/2600/comments/utcsa2/doj_says_it_will_no_longer_prosecute_goodfaith/)
 - [What's with emmanuel's self deprecation on the latest off the wall?](https://www.reddit.com/r/2600/comments/ut9agz/whats_with_emmanuels_self_deprecation_on_the/)
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/18-05-2022)
-- [Is 2600 meetups appropriate for n00bs to hacking such as myself?](https://www.reddit.com/r/2600/comments/us6jcq/is_2600_meetups_appropriate_for_n00bs_to_hacking/)
 <!-- BLOG-POST-LIST:END -->
