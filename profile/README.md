@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [More from NYT on Payphones (pw): Looking Back at the Pay Phone’s New York Heyday](https://www.reddit.com/r/2600/comments/v0ptsg/more_from_nyt_on_payphones_pw_looking_back_at_the/)
 - [*taps shit on keyboard* i am in](https://www.reddit.com/r/2600/comments/uzuvys/taps_shit_on_keyboard_i_am_in/)
 - [The Only Living Pay Phones in New York (paywall)](https://www.reddit.com/r/2600/comments/uzecvc/the_only_living_pay_phones_in_new_york_paywall/)
 - [Why doesn’t LA2600 meet online during COVID if they aren’t meeting in person?](https://www.reddit.com/r/2600/comments/uxubfr/why_doesnt_la2600_meet_online_during_covid_if/)
 - [SPRING ISSUE OF 2600 RELEASED](https://2600.com/content/spring-issue-2600-released-15)
-- [Is 2600 community trying to make a comeback?](https://www.reddit.com/r/2600/comments/ux8ruf/is_2600_community_trying_to_make_a_comeback/)
 <!-- BLOG-POST-LIST:END -->
