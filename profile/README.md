@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
-- [Don't miss out.](https://www.reddit.com/r/2600/comments/v4b5p5/dont_miss_out/)
 - [NDFW Meetup at 1418 Cafe:](https://www.reddit.com/r/2600/comments/v49g22/ndfw_meetup_at_1418_cafe/)
 - [Next month Mexico City meeting](https://www.reddit.com/r/2600/comments/v40ndk/next_month_mexico_city_meeting/)
 - [Let's organize a Mexico City meeting](https://www.reddit.com/r/2600/comments/v3mcxq/lets_organize_a_mexico_city_meeting/)
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/01-06-2022)
+- [NEW 'Off The Wall' ONLINE](https://2600.com/wall/31-05-2022)
 <!-- BLOG-POST-LIST:END -->
