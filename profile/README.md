@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tuning FM Radio & Decoding RDS Data on ANDROID using RTL-SDR USB](https://www.reddit.com/r/2600/comments/v5wbsg/tuning_fm_radio_decoding_rds_data_on_android/)
+- [How 90's dial-up Internet worked, and let's make our own ISP](https://www.reddit.com/r/2600/comments/v5vs9n/how_90s_dialup_internet_worked_and_lets_make_our/)
 - [Upgrades to Wardriving with SDR](https://www.reddit.com/r/2600/comments/v510b5/upgrades_to_wardriving_with_sdr/)
 - [How I Became a Phone Phreak, part 1](https://www.reddit.com/r/2600/comments/v4z2iv/how_i_became_a_phone_phreak_part_1/)
 - [Need a hardline for your phreaking needs, find it here on payphone directory.](https://www.reddit.com/r/2600/comments/v4w64d/need_a_hardline_for_your_phreaking_needs_find_it/)
-- [Community Swag give-a-way](https://www.reddit.com/r/2600/comments/v4vxbe/community_swag_giveaway/)
-- [NDFW Meetup at 1418 Cafe:](https://www.reddit.com/r/2600/comments/v49g22/ndfw_meetup_at_1418_cafe/)
 <!-- BLOG-POST-LIST:END -->
