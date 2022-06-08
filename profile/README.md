@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [The very old times](https://www.reddit.com/r/2600/comments/v81rzq/the_very_old_times/)
 - [What is the criteria for a 2600 meeting to start meeting again?](https://www.reddit.com/r/2600/comments/v7jayp/what_is_the_criteria_for_a_2600_meeting_to_start/)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/07-06-2022)
 - [How many phone booths are left in Vermont?](https://www.reddit.com/r/2600/comments/v79pey/how_many_phone_booths_are_left_in_vermont/)
 - [Feds Demands User Data From Signal - Here's What They Got](https://www.reddit.com/r/2600/comments/v6vui2/feds_demands_user_data_from_signal_heres_what/)
-- [Tuning FM Radio & Decoding RDS Data on ANDROID using RTL-SDR USB](https://www.reddit.com/r/2600/comments/v5wbsg/tuning_fm_radio_decoding_rds_data_on_android/)
 <!-- BLOG-POST-LIST:END -->
