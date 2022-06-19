@@ -7,8 +7,8 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/15-06-2022)
-- [Long shot but anyone got a manual?](https://www.reddit.com/r/2600/comments/vcntgg/long_shot_but_anyone_got_a_manual/)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/14-06-2022)
-- [Inside the World of Hacker Culture (documentary)](https://www.reddit.com/r/2600/comments/vaz5fs/inside_the_world_of_hacker_culture_documentary/)
-- [Will it be very difficult or impossible to hack things in future](https://www.reddit.com/r/2600/comments/vayxwq/will_it_be_very_difficult_or_impossible_to_hack/)
+- [SPRING ISSUE OF 2600 RELEASED](https://2600.com/content/spring-issue-2600-released-15)
+- [VOLUME 38 OF THE HACKER DIGEST RELEASED](https://2600.com/content/volume-38-hacker-digest-released)
+- [DEADLINE FOR SUBMITTING HOPE TALK PROPOSALS  IS MAY 31, 2022!](https://2600.com/content/deadline-submitting-hope-talk-proposals-may-31-2022)
 <!-- BLOG-POST-LIST:END -->
