@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
-- [Identity theft, i’m searching for hackers](https://www.reddit.com/r/2600/comments/vggwpb/identity_theft_im_searching_for_hackers/)
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/15-06-2022)
 - [Long shot but anyone got a manual?](https://www.reddit.com/r/2600/comments/vcntgg/long_shot_but_anyone_got_a_manual/)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/14-06-2022)
 - [Inside the World of Hacker Culture (documentary)](https://www.reddit.com/r/2600/comments/vaz5fs/inside_the_world_of_hacker_culture_documentary/)
+- [Will it be very difficult or impossible to hack things in future](https://www.reddit.com/r/2600/comments/vayxwq/will_it_be_very_difficult_or_impossible_to_hack/)
 <!-- BLOG-POST-LIST:END -->
