@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [old article about slightly changing mailing addresses](https://www.reddit.com/r/2600/comments/vhky6u/old_article_about_slightly_changing_mailing/)
 - [Anyone else getting the feels when playing wordle because its like cracking old sysop passwords?](https://www.reddit.com/r/2600/comments/vheino/anyone_else_getting_the_feels_when_playing_wordle/)
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/15-06-2022)
 - [Long shot but anyone got a manual?](https://www.reddit.com/r/2600/comments/vcntgg/long_shot_but_anyone_got_a_manual/)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/14-06-2022)
-- [Inside the World of Hacker Culture (documentary)](https://www.reddit.com/r/2600/comments/vaz5fs/inside_the_world_of_hacker_culture_documentary/)
 <!-- BLOG-POST-LIST:END -->
