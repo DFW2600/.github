@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [Reading new issue; "Web 3.0 is bullshit."](https://www.reddit.com/r/2600/comments/vl4gi9/reading_new_issue_web_30_is_bullshit/)
+- [Everybody is welcome!](https://www.reddit.com/r/2600/comments/vkkd5a/everybody_is_welcome/)
+- [Wondering if it's possible to jam a wifi signal using a wireless router?](https://www.reddit.com/r/2600/comments/vjxqla/wondering_if_its_possible_to_jam_a_wifi_signal/)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/21-06-2022)
-- [SPRING ISSUE OF 2600 RELEASED](https://2600.com/content/spring-issue-2600-released-15)
-- [VOLUME 38 OF THE HACKER DIGEST RELEASED](https://2600.com/content/volume-38-hacker-digest-released)
-- [DEADLINE FOR SUBMITTING HOPE TALK PROPOSALS  IS MAY 31, 2022!](https://2600.com/content/deadline-submitting-hope-talk-proposals-may-31-2022)
-- [VIRTUAL TICKETS TO HOPE NOW AVAILABLE](https://2600.com/content/virtual-tickets-hope-now-available)
+- [[Tutorial] Convert Your '80s/90s Payphone to Work on POTS lines](https://www.reddit.com/r/2600/comments/vhpfmq/tutorial_convert_your_80s90s_payphone_to_work_on/)
 <!-- BLOG-POST-LIST:END -->
