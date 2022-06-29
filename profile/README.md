@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [Emmanuel: "nazis, *gashes teeth*" "states aren't countries, you don't need passports to go from state to state". "tracking your movements is bad and dystopian!"... Still supports vaccine passes. 🤔😞🤷🏻‍♂️](https://www.reddit.com/r/2600/comments/vn6qfd/emmanuel_nazis_gashes_teeth_states_arent/)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/28-06-2022)
 - [Reading new issue; "Web 3.0 is bullshit."](https://www.reddit.com/r/2600/comments/vl4gi9/reading_new_issue_web_30_is_bullshit/)
 - [Everybody is welcome!](https://www.reddit.com/r/2600/comments/vkkd5a/everybody_is_welcome/)
 - [Wondering if it's possible to jam a wifi signal using a wireless router?](https://www.reddit.com/r/2600/comments/vjxqla/wondering_if_its_possible_to_jam_a_wifi_signal/)
-- [[Tutorial] Convert Your '80s/90s Payphone to Work on POTS lines](https://www.reddit.com/r/2600/comments/vhpfmq/tutorial_convert_your_80s90s_payphone_to_work_on/)
 <!-- BLOG-POST-LIST:END -->
