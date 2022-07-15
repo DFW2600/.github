@@ -6,8 +6,8 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [HOPE TICKET SALES ENDING TODAY - NO TICKETS AT THE DOOR](https://2600.com/content/hope-ticket-sales-ending-today-no-tickets-door)
 - [You in the NYC area and planning on attending A New HOPE in Queens this year? Join NYC 2600 vet Sidepocket at his DCG 201 Meet Up at Helen's Pizza in Jersey City, NJ TOMORROW 7pm - 10pm. Will also be live streamed & we will be preparing for yet another year of Hackers On Planet Earth!](https://www.reddit.com/r/2600/comments/vz8xpe/you_in_the_nyc_area_and_planning_on_attending_a/)
-- [HOPE TICKET SALES ENDING TOMORROW - NO TICKETS AT THE DOOR](https://2600.com/content/hope-ticket-sales-ending-tomorrow-no-tickets-door)
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/13-07-2022)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/12-07-2022)
 - [Rooster in front of a Pay Phone, Kawaii [OC]](https://www.reddit.com/r/2600/comments/vwqphu/rooster_in_front_of_a_pay_phone_kawaii_oc/)
