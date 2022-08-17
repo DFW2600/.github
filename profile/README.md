@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [Anyone know why the 2600.com Web Site is down?](https://www.reddit.com/r/2600/comments/wqp4jv/anyone_know_why_the_2600com_web_site_is_down/)
 - [Working RJ11 enabled Payphone discovered for sale. (not affiliated. just sharing)](https://www.reddit.com/r/2600/comments/wqf6cu/working_rj11_enabled_payphone_discovered_for_sale/)
 - [Eavesdropping Video Monitors With TempestSDR RTL-SDR](https://www.reddit.com/r/2600/comments/wou2u7/eavesdropping_video_monitors_with_tempestsdr/)
 - [Other zines like 2600?](https://www.reddit.com/r/2600/comments/wkof7r/other_zines_like_2600/)
 - [OSInt on AI](https://www.reddit.com/r/2600/comments/wcce3z/osint_on_ai/)
-- [what remains after a termite infestation of my lib . . .](https://www.reddit.com/r/2600/comments/w9y1cj/what_remains_after_a_termite_infestation_of_my_lib/)
 <!-- BLOG-POST-LIST:END -->
