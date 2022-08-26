@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pool on the roof has a leak](https://www.reddit.com/r/2600/comments/wyjmjw/pool_on_the_roof_has_a_leak/)
 - [New Kid spreads the love of telnet and telehack](https://www.reddit.com/r/2600/comments/wyj4cn/new_kid_spreads_the_love_of_telnet_and_telehack/)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/23-08-2022)
 - [SUMMER ISSUE OF 2600 RELEASED](https://2600.com/content/summer-issue-2600-released-17)
 - [Came across this beer referencing one of the greatest movies of all time, could not pass up [OC]](https://www.reddit.com/r/2600/comments/wuf5nk/came_across_this_beer_referencing_one_of_the/)
-- [Anyone know why the 2600.com Web Site is down?](https://www.reddit.com/r/2600/comments/wqp4jv/anyone_know_why_the_2600com_web_site_is_down/)
 <!-- BLOG-POST-LIST:END -->
