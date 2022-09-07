@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [NEW 'Off The Wall' ONLINE](https://2600.com/wall/06-09-2022)
 - [Mainframe is not dead it is just in hibernation mode](https://www.reddit.com/r/2600/comments/x7bxko/mainframe_is_not_dead_it_is_just_in_hibernation/)
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/31-08-2022)
-- [NEW 'Off The Wall' ONLINE](https://2600.com/wall/30-08-2022)
 - [Pool on the roof has a leak](https://www.reddit.com/r/2600/comments/wyjmjw/pool_on_the_roof_has_a_leak/)
 - [New Kid spreads the love of telnet and telehack](https://www.reddit.com/r/2600/comments/wyj4cn/new_kid_spreads_the_love_of_telnet_and_telehack/)
 <!-- BLOG-POST-LIST:END -->
