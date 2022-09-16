@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [I just accidentally accepted an airdrop from a stranger. How fucked am I?](https://www.reddit.com/r/2600/comments/xfgnvk/i_just_accidentally_accepted_an_airdrop_from_a/)
+- [Does Microsoft Teams Store Auth Tokens as Cleartext](https://www.reddit.com/r/2600/comments/xfg7v1/does_microsoft_teams_store_auth_tokens_as/)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/13-09-2022)
 - [Why does the cybersecurity community dislike Kevin Mitnick. [x-post]](https://www.reddit.com/r/2600/comments/xch1t9/why_does_the_cybersecurity_community_dislike/)
 - [Krebs vs Ubiquiti](https://www.reddit.com/r/2600/comments/x7u2d2/krebs_vs_ubiquiti/)
-- [Mainframe is not dead it is just in hibernation mode](https://www.reddit.com/r/2600/comments/x7bxko/mainframe_is_not_dead_it_is_just_in_hibernation/)
-- [Pool on the roof has a leak](https://www.reddit.com/r/2600/comments/wyjmjw/pool_on_the_roof_has_a_leak/)
 <!-- BLOG-POST-LIST:END -->
