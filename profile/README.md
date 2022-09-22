@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [NEW 'Off The Hook' ONLINE](https://2600.com/hook/21-09-2022)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/20-09-2022)
 - [Master hacker uses an IR blaster to turn off TVs](https://www.reddit.com/r/2600/comments/xh5dj6/master_hacker_uses_an_ir_blaster_to_turn_off_tvs/)
 - [Terence McKenna on VR, hackers and art](https://www.reddit.com/r/2600/comments/xgzwng/terence_mckenna_on_vr_hackers_and_art/)
 - [I just accidentally accepted an airdrop from a stranger. How fucked am I?](https://www.reddit.com/r/2600/comments/xfgnvk/i_just_accidentally_accepted_an_airdrop_from_a/)
-- [Does Microsoft Teams Store Auth Tokens as Cleartext](https://www.reddit.com/r/2600/comments/xfg7v1/does_microsoft_teams_store_auth_tokens_as/)
 <!-- BLOG-POST-LIST:END -->
