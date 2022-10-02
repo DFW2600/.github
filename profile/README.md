@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [Telephone box on a platform at Penn Station, NYC](https://www.reddit.com/r/2600/comments/xtie7k/telephone_box_on_a_platform_at_penn_station_nyc/)
 - [Kaneohe, hawaii](https://www.reddit.com/r/2600/comments/xrog20/kaneohe_hawaii/)
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/28-09-2022)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/27-09-2022)
 - [New (LTE) Rotary Cell Phone discovered](https://www.reddit.com/r/2600/comments/xp6xs2/new_lte_rotary_cell_phone_discovered/)
-- [Girls Who Code founder speaks out after Pennsylvania school district bans her books: 'This is about controlling women and it starts with controlling our girls'](https://www.reddit.com/r/2600/comments/xooy5p/girls_who_code_founder_speaks_out_after/)
 <!-- BLOG-POST-LIST:END -->
