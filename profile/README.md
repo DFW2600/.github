@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [payphones in Toronto](https://www.reddit.com/r/2600/comments/xtywd7/payphones_in_toronto/)
 - [Telephone box on a platform at Penn Station, NYC](https://www.reddit.com/r/2600/comments/xtie7k/telephone_box_on_a_platform_at_penn_station_nyc/)
 - [Kaneohe, hawaii](https://www.reddit.com/r/2600/comments/xrog20/kaneohe_hawaii/)
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/28-09-2022)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/27-09-2022)
-- [New (LTE) Rotary Cell Phone discovered](https://www.reddit.com/r/2600/comments/xp6xs2/new_lte_rotary_cell_phone_discovered/)
 <!-- BLOG-POST-LIST:END -->
