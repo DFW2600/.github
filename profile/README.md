@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [2600 KICKED OFF OF YOUTUBE FOR SARCASTIC REMARK](https://2600.com/content/2600-kicked-youtube-sarcastic-remark)
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/05-10-2022)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/04-10-2022)
 - [WUSB HISTORICAL VIDEO SERIES BEGINS](https://2600.com/content/wusb-historical-video-series-begins)
 - [Santa Fe, NM, in the Plaza Galeria](https://www.reddit.com/r/2600/comments/xu5u7m/santa_fe_nm_in_the_plaza_galeria/)
-- [payphones in Toronto](https://www.reddit.com/r/2600/comments/xtywd7/payphones_in_toronto/)
 <!-- BLOG-POST-LIST:END -->
