@@ -7,8 +7,8 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/11-10-2022)
-- [Comic Con NYC 2022](https://www.reddit.com/r/2600/comments/y00bop/comic_con_nyc_2022/)
 - [2600 KICKED OFF OF YOUTUBE FOR SARCASTIC REMARK](https://2600.com/content/2600-kicked-youtube-sarcastic-remark)
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/05-10-2022)
 - [WUSB HISTORICAL VIDEO SERIES BEGINS](https://2600.com/content/wusb-historical-video-series-begins)
+- [SUMMER ISSUE OF 2600 RELEASED](https://2600.com/content/summer-issue-2600-released-17)
 <!-- BLOG-POST-LIST:END -->
