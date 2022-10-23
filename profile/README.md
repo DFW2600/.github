@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [Eircom Payphone - Dublin, Ireland](https://www.reddit.com/r/2600/comments/yb2isg/eircom_payphone_dublin_ireland/)
 - [Dead Pay Phone in Toronto](https://www.reddit.com/r/2600/comments/y8f1x2/dead_pay_phone_in_toronto/)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/18-10-2022)
 - [Did this age well?](https://www.reddit.com/r/2600/comments/y6y8hm/did_this_age_well/)
 - [Payphones In Rome, Italy and Lisbon, Portugal](https://www.reddit.com/r/2600/comments/y3cyzo/payphones_in_rome_italy_and_lisbon_portugal/)
-- [Comic Con NYC 2022](https://www.reddit.com/r/2600/comments/y00bop/comic_con_nyc_2022/)
 <!-- BLOG-POST-LIST:END -->
