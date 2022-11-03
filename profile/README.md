@@ -8,7 +8,7 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 <!-- BLOG-POST-LIST:START -->
 - [WUSB HISTORICAL VIDEO SERIES CONTINUES](https://2600.com/content/wusb-historical-video-series-continues)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/01-11-2022)
-- [NEW 'Off The Hook' ONLINE](https://2600.com/hook/26-10-2022)
 - [Eircom Payphone - Dublin, Ireland](https://www.reddit.com/r/2600/comments/yb2isg/eircom_payphone_dublin_ireland/)
 - [Dead Pay Phone in Toronto](https://www.reddit.com/r/2600/comments/y8f1x2/dead_pay_phone_in_toronto/)
+- [Did this age well?](https://www.reddit.com/r/2600/comments/y6y8hm/did_this_age_well/)
 <!-- BLOG-POST-LIST:END -->
