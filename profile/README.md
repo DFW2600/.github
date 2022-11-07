@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [Flea Market Find](https://www.reddit.com/r/2600/comments/yn5stt/flea_market_find/)
 - [WUSB HISTORICAL VIDEO SERIES CONTINUES](https://2600.com/content/wusb-historical-video-series-continues)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/01-11-2022)
-- [2600 KICKED OFF OF YOUTUBE FOR SARCASTIC REMARK](https://2600.com/content/2600-kicked-youtube-sarcastic-remark)
-- [SUMMER ISSUE OF 2600 RELEASED](https://2600.com/content/summer-issue-2600-released-17)
-- [POST-HOPE UPDATE: VIDEOS AND SHIRTS AVAILABLE](https://2600.com/content/post-hope-update-videos-and-shirts-available)
+- [Eircom Payphone - Dublin, Ireland](https://www.reddit.com/r/2600/comments/yb2isg/eircom_payphone_dublin_ireland/)
+- [Dead Pay Phone in Toronto](https://www.reddit.com/r/2600/comments/y8f1x2/dead_pay_phone_in_toronto/)
 <!-- BLOG-POST-LIST:END -->
