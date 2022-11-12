@@ -10,5 +10,5 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 - [AUTUMN ISSUE OF 2600 RELEASED](https://2600.com/content/autumn-issue-2600-released-14)
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/09-11-2022)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/08-11-2022)
-- [Flea Market Find](https://www.reddit.com/r/2600/comments/yn5stt/flea_market_find/)
+- [Dada movement - interview with Tristan Tzara](https://www.reddit.com/r/2600/comments/yq4yiu/dada_movement_interview_with_tristan_tzara/)
 <!-- BLOG-POST-LIST:END -->
