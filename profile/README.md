@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [ELEVEN NEW 2600 SHIRTS HAVE BEEN RELEASED](https://2600.com/content/eleven-new-2600-shirts-have-been-released)
 - [2018 BACK ISSUES NOW AVAILABLE IN PDF FORMAT](https://2600.com/content/2018-back-issues-now-available-pdf-format)
 - [Pizzeria, Deer Park NY](https://www.reddit.com/r/2600/comments/yujxm6/pizzeria_deer_park_ny/)
 - [How to get Free Mainframe access](https://www.reddit.com/r/2600/comments/ysm38r/how_to_get_free_mainframe_access/)
 - [AUTUMN ISSUE OF 2600 RELEASED](https://2600.com/content/autumn-issue-2600-released-14)
-- [NEW 'Off The Hook' ONLINE](https://2600.com/hook/09-11-2022)
 <!-- BLOG-POST-LIST:END -->
