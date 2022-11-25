@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [RIP Jim Vichench (HOPE, Off the Hook, etc.)](https://www.reddit.com/r/2600/comments/z4p66w/rip_jim_vichench_hope_off_the_hook_etc/)
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/23-11-2022)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/22-11-2022)
 - [ELEVEN NEW 2600 SHIRTS HAVE BEEN RELEASED](https://2600.com/content/eleven-new-2600-shirts-have-been-released)
 - [2018 BACK ISSUES NOW AVAILABLE IN PDF FORMAT](https://2600.com/content/2018-back-issues-now-available-pdf-format)
-- [Pizzeria, Deer Park NY](https://www.reddit.com/r/2600/comments/yujxm6/pizzeria_deer_park_ny/)
 <!-- BLOG-POST-LIST:END -->
