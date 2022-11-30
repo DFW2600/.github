@@ -10,5 +10,5 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 - [In memory of Jeopardy Jim](https://www.reddit.com/r/2600/comments/z51k91/in_memory_of_jeopardy_jim/)
 - [RIP Jim Vichench (HOPE, Off the Hook, etc.)](https://www.reddit.com/r/2600/comments/z4p66w/rip_jim_vichench_hope_off_the_hook_etc/)
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/23-11-2022)
-- [NEW 'Off The Wall' ONLINE](https://2600.com/wall/22-11-2022)
+- [ELEVEN NEW 2600 SHIRTS HAVE BEEN RELEASED](https://2600.com/content/eleven-new-2600-shirts-have-been-released)
 <!-- BLOG-POST-LIST:END -->
