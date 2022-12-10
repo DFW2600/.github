@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [Inside the Louisiana State Capital (ground floor)](https://www.reddit.com/r/2600/comments/zhh2ez/inside_the_louisiana_state_capital_ground_floor/)
 - [r2600 you guys are awesome this year!](https://www.reddit.com/r/2600/comments/zhdciu/r2600_you_guys_are_awesome_this_year/)
 - [Preliminary setup of a 2600 Hacker Quarterly Mastodon server is available for @2600 Readers](https://www.reddit.com/r/2600/comments/zetywf/preliminary_setup_of_a_2600_hacker_quarterly/)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/06-12-2022)
 - [WUSB HISTORICAL VIDEO SERIES CONTINUES](https://2600.com/content/wusb-historical-video-series-continues)
-- [Pay Phones Are Coming Back in Philadelphia Thanks to Linux, No Quarters Required](https://www.reddit.com/r/2600/comments/z9rrkz/pay_phones_are_coming_back_in_philadelphia_thanks/)
 <!-- BLOG-POST-LIST:END -->
