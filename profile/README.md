@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [Have at ‘em!](https://www.reddit.com/r/2600/comments/zso4vv/have_at_em/)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/20-12-2022)
 - [US News: Chinese govt hackers breached telcos to snoop on network traffic](https://www.reddit.com/r/2600/comments/zp1jxx/us_news_chinese_govt_hackers_breached_telcos_to/)
 - [The real terrorists are the ones against](https://www.reddit.com/r/2600/comments/zorhhd/the_real_terrorists_are_the_ones_against/)
 - [Every Time a Ma Bell Rings an Hacker Gets their Wings](https://www.reddit.com/r/2600/comments/zk21mm/every_time_a_ma_bell_rings_an_hacker_gets_their/)
-- [Happy Holidays from user Sandie Claws](https://www.reddit.com/r/2600/comments/zj22ic/happy_holidays_from_user_sandie_claws/)
 <!-- BLOG-POST-LIST:END -->
