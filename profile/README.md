@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [NEW 'Off The Hook' ONLINE](https://2600.com/hook/28-12-2022)
 - [Hidden folders that are truely hidden](https://www.reddit.com/r/2600/comments/zx0p1c/hidden_folders_that_are_truely_hidden/)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/27-12-2022)
 - [Holiday Messages from the North Poll](https://www.reddit.com/r/2600/comments/zv1csb/holiday_messages_from_the_north_poll/)
 - [Not FBI Partyvan but Bro code cool](https://www.reddit.com/r/2600/comments/zu0goc/not_fbi_partyvan_but_bro_code_cool/)
-- [An Introduction To Open Source Intelligence (OSINT) Gathering](https://www.reddit.com/r/2600/comments/zu06mc/an_introduction_to_open_source_intelligence_osint/)
 <!-- BLOG-POST-LIST:END -->
