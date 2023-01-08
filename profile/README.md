@@ -9,6 +9,6 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 - [This guy!](https://www.reddit.com/r/2600/comments/1052olc/this_guy/)
 - [we should be paid for our data](https://www.reddit.com/r/2600/comments/103enhu/we_should_be_paid_for_our_data/)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/03-01-2023)
-- [It’s a new year. Think I’ll hack the Gibson!](https://www.reddit.com/r/2600/comments/101vqge/its_a_new_year_think_ill_hack_the_gibson/)
 - [WUSB HISTORICAL VIDEO SERIES CONTINUES](https://2600.com/content/wusb-historical-video-series-continues)
+- [Hidden folders that are truely hidden](https://www.reddit.com/r/2600/comments/zx0p1c/hidden_folders_that_are_truely_hidden/)
 <!-- BLOG-POST-LIST:END -->
