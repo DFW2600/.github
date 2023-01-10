@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [For the next time E cannot read the NY Times articles](https://www.reddit.com/r/2600/comments/108gebp/for_the_next_time_e_cannot_read_the_ny_times/)
 - [This was my first setup. What was yours?](https://www.reddit.com/r/2600/comments/107w79g/this_was_my_first_setup_what_was_yours/)
 - [This guy!](https://www.reddit.com/r/2600/comments/1052olc/this_guy/)
 - [we should be paid for our data](https://www.reddit.com/r/2600/comments/103enhu/we_should_be_paid_for_our_data/)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/03-01-2023)
-- [WUSB HISTORICAL VIDEO SERIES CONTINUES](https://2600.com/content/wusb-historical-video-series-continues)
 <!-- BLOG-POST-LIST:END -->
