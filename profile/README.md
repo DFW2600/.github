@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
-- [Anybody know magazines current circulation numbers?](https://www.reddit.com/r/2600/comments/1090nc2/anybody_know_magazines_current_circulation_numbers/)
+- [NEW 'Off The Hook' ONLINE](https://2600.com/hook/11-01-2023)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/10-01-2023)
-- [For the next time E cannot read the NY Times articles](https://www.reddit.com/r/2600/comments/108gebp/for_the_next_time_e_cannot_read_the_ny_times/)
-- [This was my first setup. What was yours?](https://www.reddit.com/r/2600/comments/107w79g/this_was_my_first_setup_what_was_yours/)
-- [This guy!](https://www.reddit.com/r/2600/comments/1052olc/this_guy/)
+- [WUSB HISTORICAL VIDEO SERIES CONTINUES](https://2600.com/content/wusb-historical-video-series-continues)
+- [2600 HOLIDAY SPECIALS HAVE ARRIVED](https://2600.com/content/2600-holiday-specials-have-arrived)
+- [ELEVEN NEW 2600 SHIRTS HAVE BEEN RELEASED](https://2600.com/content/eleven-new-2600-shirts-have-been-released)
 <!-- BLOG-POST-LIST:END -->
