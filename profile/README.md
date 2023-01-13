@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Death of Infosec](https://www.reddit.com/r/2600/comments/10b44c5/the_death_of_infosec/)
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/11-01-2023)
 - [Anybody know magazines current circulation numbers?](https://www.reddit.com/r/2600/comments/1090nc2/anybody_know_magazines_current_circulation_numbers/)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/10-01-2023)
 - [For the next time E cannot read the NY Times articles](https://www.reddit.com/r/2600/comments/108gebp/for_the_next_time_e_cannot_read_the_ny_times/)
-- [This was my first setup. What was yours?](https://www.reddit.com/r/2600/comments/107w79g/this_was_my_first_setup_what_was_yours/)
 <!-- BLOG-POST-LIST:END -->
