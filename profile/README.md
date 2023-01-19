@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [NEW 'Off The Hook' ONLINE](https://2600.com/hook/18-01-2023)
 - [The best OS for hacking??](https://www.reddit.com/r/2600/comments/10ff85m/the_best_os_for_hacking/)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/17-01-2023)
 - [NEW OUTFITS FOR HACKER BABIES ANNOUNCED](https://2600.com/content/new-outfits-hacker-babies-announced)
 - [Cybersecurity Specialist Profile: Eric Corley (Code Name: Emmanuel Goldstein), Publisher of 2600: The Hacker Quarterly](https://www.reddit.com/r/2600/comments/10bxeuu/cybersecurity_specialist_profile_eric_corley_code/)
-- [can anyone help me find someone from my past?](https://www.reddit.com/r/2600/comments/10bt63y/can_anyone_help_me_find_someone_from_my_past/)
 <!-- BLOG-POST-LIST:END -->
