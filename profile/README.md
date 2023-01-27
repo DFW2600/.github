@@ -7,8 +7,8 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/25-01-2023)
+- [is anyone else planning on going to LA2600 in February and is it happening?](https://www.reddit.com/r/2600/comments/10krx5c/is_anyone_else_planning_on_going_to_la2600_in/)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/24-01-2023)
-- [NEW OUTFITS FOR HACKER BABIES ANNOUNCED](https://2600.com/content/new-outfits-hacker-babies-announced)
-- [WUSB HISTORICAL VIDEO SERIES CONTINUES](https://2600.com/content/wusb-historical-video-series-continues)
-- [2600 HOLIDAY SPECIALS HAVE ARRIVED](https://2600.com/content/2600-holiday-specials-have-arrived)
+- [Which one of you hackers did this and How can I get 1337 of them?](https://www.reddit.com/r/2600/comments/10gktv2/which_one_of_you_hackers_did_this_and_how_can_i/)
+- [The best OS for hacking??](https://www.reddit.com/r/2600/comments/10ff85m/the_best_os_for_hacking/)
 <!-- BLOG-POST-LIST:END -->
