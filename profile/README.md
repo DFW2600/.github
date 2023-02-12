@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
-- [We interviewed ChatGPT to ask if AI could replace human jobs, here’s what it said.](https://www.reddit.com/r/2600/comments/10zwlx2/we_interviewed_chatgpt_to_ask_if_ai_could_replace/)
 - [Fore the Lonely Hearts club](https://www.reddit.com/r/2600/comments/10zfc7s/fore_the_lonely_hearts_club/)
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/08-02-2023)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/07-02-2023)
 - [#publicdefender tells you why you should NEVER use fingerprints or Face ID to unlock your phone!](https://www.reddit.com/r/2600/comments/10vrk7e/publicdefender_tells_you_why_you_should_never_use/)
+- [WINTER ISSUE OF 2600 RELEASED](https://2600.com/content/winter-issue-2600-released-15)
 <!-- BLOG-POST-LIST:END -->
