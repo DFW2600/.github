@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [For the nostalgic folks on r/2600 - LORD!](https://www.reddit.com/r/2600/comments/111dxiz/for_the_nostalgic_folks_on_r2600_lord/)
 - [Name a more iconic duo.](https://www.reddit.com/r/2600/comments/110td05/name_a_more_iconic_duo/)
 - [Fore the Lonely Hearts club](https://www.reddit.com/r/2600/comments/10zfc7s/fore_the_lonely_hearts_club/)
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/08-02-2023)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/07-02-2023)
-- [#publicdefender tells you why you should NEVER use fingerprints or Face ID to unlock your phone!](https://www.reddit.com/r/2600/comments/10vrk7e/publicdefender_tells_you_why_you_should_never_use/)
 <!-- BLOG-POST-LIST:END -->
