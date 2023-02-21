@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cover Clues for Vol 39 No 4](https://www.reddit.com/r/2600/comments/117srmu/cover_clues_for_vol_39_no_4/)
 - [QEdit TSR](https://www.reddit.com/r/2600/comments/1151v82/qedit_tsr/)
 - [Discussion: Volume 39 Number 4](https://www.reddit.com/r/2600/comments/113sy6y/discussion_volume_39_number_4/)
 - [my first organizer . . .](https://www.reddit.com/r/2600/comments/113q59l/my_first_organizer/)
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/15-02-2023)
-- [Would love to get feedback on the Hacker Perspective column in the latest issue?](https://www.reddit.com/r/2600/comments/113bxqe/would_love_to_get_feedback_on_the_hacker/)
 <!-- BLOG-POST-LIST:END -->
