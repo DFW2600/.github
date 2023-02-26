@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [Who is this? (Wrong answers only)](https://www.reddit.com/r/2600/comments/11cnbsk/who_is_this_wrong_answers_only/)
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/22-02-2023)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/21-02-2023)
 - [In my opinion, Mr Robot is the most accurate portrayal of hackers in popular culture, at least from a technology standpoint. Still, I would have enjoyed if The Gibson had made a cameo or two. What did you folks think of the show?](https://www.reddit.com/r/2600/comments/11871fn/in_my_opinion_mr_robot_is_the_most_accurate/)
 - [Cover Clues for Vol 39 No 4](https://www.reddit.com/r/2600/comments/117srmu/cover_clues_for_vol_39_no_4/)
-- [QEdit TSR](https://www.reddit.com/r/2600/comments/1151v82/qedit_tsr/)
 <!-- BLOG-POST-LIST:END -->
