@@ -7,8 +7,8 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
 - [Once the World’s Largest, a Hotel Goes ‘Poof!’ Before Our Eyes](https://www.reddit.com/r/2600/comments/11gd0ux/once_the_worlds_largest_a_hotel_goes_poof_before/)
-- [Hot-wiring a payphone.](https://www.reddit.com/r/2600/comments/11g97m2/hotwiring_a_payphone/)
 - [ARCHIVE: WUSB HISTORICAL VIDEO SERIES CONTINUES](https://2600.com/content/archive-wusb-historical-video-series-continues)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/28-02-2023)
 - [My name is Werner Brandis. My voice is my passport. Verify me.](https://www.reddit.com/r/2600/comments/11djutl/my_name_is_werner_brandis_my_voice_is_my_passport/)
+- [In my opinion, Mr Robot is the most accurate portrayal of hackers in popular culture, at least from a technology standpoint. Still, I would have enjoyed if The Gibson had made a cameo or two. What did you folks think of the show?](https://www.reddit.com/r/2600/comments/11871fn/in_my_opinion_mr_robot_is_the_most_accurate/)
 <!-- BLOG-POST-LIST:END -->
