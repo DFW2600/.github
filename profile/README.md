@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [those were the days . . .](https://www.reddit.com/r/2600/comments/11qv9bh/those_were_the_days/)
 - [I wonder if it tastes like rollerblading.](https://www.reddit.com/r/2600/comments/11qj5zk/i_wonder_if_it_tastes_like_rollerblading/)
 - [Phone booth. Wet charcoal and white pastel art by me.](https://www.reddit.com/r/2600/comments/11m9jk7/phone_booth_wet_charcoal_and_white_pastel_art_by/)
 - [Looking for print editions of any issues from volume 1-9](https://www.reddit.com/r/2600/comments/11lj978/looking_for_print_editions_of_any_issues_from/)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/07-03-2023)
-- [Wardrobe upgrade x 2](https://www.reddit.com/r/2600/comments/11l5inr/wardrobe_upgrade_x_2/)
 <!-- BLOG-POST-LIST:END -->
