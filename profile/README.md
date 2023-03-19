@@ -9,6 +9,6 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 - [beep beep](https://www.reddit.com/r/2600/comments/11ugrc6/beep_beep/)
 - [Off The Hook outro 11/23/22](https://www.reddit.com/r/2600/comments/11t1jah/off_the_hook_outro_112322/)
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/15-03-2023)
-- [Did you know that, despite lacking a keyboard and touch screen, Japanese pay phones can be used to send email to cell phones?](https://www.reddit.com/r/2600/comments/11s0d9x/did_you_know_that_despite_lacking_a_keyboard_and/)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/14-03-2023)
+- [those were the days . . .](https://www.reddit.com/r/2600/comments/11qv9bh/those_were_the_days/)
 <!-- BLOG-POST-LIST:END -->
