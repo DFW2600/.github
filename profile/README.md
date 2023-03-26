@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [Caturday post!](https://www.reddit.com/r/2600/comments/122d4mq/caturday_post/)
 - [What do you think of the TikTok trial?](https://www.reddit.com/r/2600/comments/120b34p/what_do_you_think_of_the_tiktok_trial/)
 - [no more magazine via Amazon](https://www.reddit.com/r/2600/comments/11zn4qc/no_more_magazine_via_amazon/)
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/22-03-2023)
 - [What was the first type of computer you had access to? Mine was the Radio Shack/Tandy TRS-80 at school.](https://www.reddit.com/r/2600/comments/11yx4oh/what_was_the_first_type_of_computer_you_had/)
-- [NEW 'Off The Wall' ONLINE](https://2600.com/wall/21-03-2023)
 <!-- BLOG-POST-LIST:END -->
