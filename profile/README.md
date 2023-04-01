@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
-- [SHAKESPEARE'S LONGLOST MICHELANGELO VIRUS SONNET](https://2600.com/content/shakespeares-longlost-michelangelo-virus-sonnet)
-- [VORNADO ANNOUNCES PLANS FOR FORMER HOTEL PENNSYLVANIA SITE](https://2600.com/content/vornado-announces-plans-former-hotel-pennsylvania-site)
-- [CROSSOVER SERIES OF "MR. ROBOT" AND "LEAVE IT TO BEAVER" ANNOUNCED](https://2600.com/content/crossover-series-mr-robot-and-leave-it-beaver-announced)
-- [UNCLAIMED HACKER HANDLES](https://2600.com/content/unclaimed-hacker-handles)
-- [VPNS TO BE OUTLAWED IN THE U.S. - IT'S FOR THE BEST, REALLY](https://2600.com/content/vpns-be-outlawed-us-its-best-really)
+- [HACKERS IN HISTORY - A LOOK WAY BACK](https://2600.com/content/hackers-history-look-way-back)
+- [BOB DYLAN'S LOST SONG ABOUT HACKERS](https://2600.com/content/bob-dylans-lost-song-about-hackers)
+- [THE 28TH AMENDMENT TO THE UNITED STATES CONSTITUTION](https://2600.com/content/28th-amendment-united-states-constitution)
+- [2600 PRESENTS - QUANTUM COMPUTING FOR TODDLERS!](https://2600.com/content/2600-presents-quantum-computing-toddlers)
+- [THIS IS REAL - PLEASE DON'T IGNORE](https://2600.com/content/real-please-dont-ignore)
 <!-- BLOG-POST-LIST:END -->
