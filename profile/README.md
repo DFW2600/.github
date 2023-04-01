@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
-- [NEW 'Off The Wall' ONLINE](https://2600.com/wall/28-03-2023)
-- [1st Automted Switching Exchange Strowger Exchange](https://www.reddit.com/r/2600/comments/123xppj/1st_automted_switching_exchange_strowger_exchange/)
-- [This guy at 2600 meetings recommended me this 30 Days of Python course and I thought I wouldn’t have time but I am doing it and having a good time](https://www.reddit.com/r/2600/comments/1236kxg/this_guy_at_2600_meetings_recommended_me_this_30/)
-- [http://libc.us](https://www.reddit.com/r/2600/comments/1235v6t/httplibcus/)
-- [Vintage phone hardware by 3d printer](https://www.reddit.com/r/2600/comments/1232mdw/vintage_phone_hardware_by_3d_printer/)
+- [SHAKESPEARE'S LONGLOST MICHELANGELO VIRUS SONNET](https://2600.com/content/shakespeares-longlost-michelangelo-virus-sonnet)
+- [VORNADO ANNOUNCES PLANS FOR FORMER HOTEL PENNSYLVANIA SITE](https://2600.com/content/vornado-announces-plans-former-hotel-pennsylvania-site)
+- [CROSSOVER SERIES OF "MR. ROBOT" AND "LEAVE IT TO BEAVER" ANNOUNCED](https://2600.com/content/crossover-series-mr-robot-and-leave-it-beaver-announced)
+- [UNCLAIMED HACKER HANDLES](https://2600.com/content/unclaimed-hacker-handles)
+- [VPNS TO BE OUTLAWED IN THE U.S. - IT'S FOR THE BEST, REALLY](https://2600.com/content/vpns-be-outlawed-us-its-best-really)
 <!-- BLOG-POST-LIST:END -->
