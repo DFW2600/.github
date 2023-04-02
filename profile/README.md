@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
-- [HACKERS IN HISTORY - A LOOK WAY BACK](https://2600.com/content/hackers-history-look-way-back)
-- [BOB DYLAN'S LOST SONG ABOUT HACKERS](https://2600.com/content/bob-dylans-lost-song-about-hackers)
-- [THE 28TH AMENDMENT TO THE UNITED STATES CONSTITUTION](https://2600.com/content/28th-amendment-united-states-constitution)
-- [2600 PRESENTS - QUANTUM COMPUTING FOR TODDLERS!](https://2600.com/content/2600-presents-quantum-computing-toddlers)
-- [THIS IS REAL - PLEASE DON'T IGNORE](https://2600.com/content/real-please-dont-ignore)
+- [NEW 'Off The Wall' ONLINE](https://2600.com/wall/28-03-2023)
+- [1st Automted Switching Exchange Strowger Exchange](https://www.reddit.com/r/2600/comments/123xppj/1st_automted_switching_exchange_strowger_exchange/)
+- [This guy at 2600 meetings recommended me this 30 Days of Python course and I thought I wouldn’t have time but I am doing it and having a good time](https://www.reddit.com/r/2600/comments/1236kxg/this_guy_at_2600_meetings_recommended_me_this_30/)
+- [http://libc.us](https://www.reddit.com/r/2600/comments/1235v6t/httplibcus/)
+- [Vintage phone hardware by 3d printer](https://www.reddit.com/r/2600/comments/1232mdw/vintage_phone_hardware_by_3d_printer/)
 <!-- BLOG-POST-LIST:END -->
