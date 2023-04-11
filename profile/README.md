@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [San Diego area meeting?](https://www.reddit.com/r/2600/comments/12i6zwv/san_diego_area_meeting/)
 - [Did anyone hear about the payphone project?](https://www.reddit.com/r/2600/comments/12hs4ts/did_anyone_hear_about_the_payphone_project/)
 - [FBI: Public charging stations, such as are found at airports, can infect phones with malware; don't use them.](https://www.reddit.com/r/2600/comments/12hmcbh/fbi_public_charging_stations_such_as_are_found_at/)
 - [GPT-4 can break encryption (Caesar Cipher)](https://www.reddit.com/r/2600/comments/12hbza4/gpt4_can_break_encryption_caesar_cipher/)
 - [Do hackers dream in 16 bits?](https://www.reddit.com/r/2600/comments/12gxvbh/do_hackers_dream_in_16_bits/)
-- [Michael Bolton from Office Space (1999), my favourite hacker from pop culture.](https://www.reddit.com/r/2600/comments/12gmrjz/michael_bolton_from_office_space_1999_my/)
 <!-- BLOG-POST-LIST:END -->
