@@ -8,7 +8,7 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 <!-- BLOG-POST-LIST:START -->
 - [New exploit path for no user interaction attacks paper](https://www.reddit.com/r/2600/comments/12kny7m/new_exploit_path_for_no_user_interaction_attacks/)
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/12-04-2023)
-- [Big day for my karma count!](https://www.reddit.com/r/2600/comments/12jzfkc/big_day_for_my_karma_count/)
 - [PNG Glitch art is it art or just steganography](https://www.reddit.com/r/2600/comments/12jyhul/png_glitch_art_is_it_art_or_just_steganography/)
 - [Abusing Steganography for cloud storage and profit](https://www.reddit.com/r/2600/comments/12j64iz/abusing_steganography_for_cloud_storage_and_profit/)
+- [NEW 'Off The Wall' ONLINE](https://2600.com/wall/11-04-2023)
 <!-- BLOG-POST-LIST:END -->
