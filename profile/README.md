@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [Incredible ‘graveyard’ of British red phone boxes tucked away next to Surrey railway line. UK.](https://www.reddit.com/r/2600/comments/12qjq26/incredible_graveyard_of_british_red_phone_boxes/)
 - [Path to the garbage file](https://www.reddit.com/r/2600/comments/12pkwxd/path_to_the_garbage_file/)
 - [Happy Caturday](https://www.reddit.com/r/2600/comments/12n9p4d/happy_caturday/)
 - [The Blue Box designed and built by Steve Wozniak and sold by Steve Jobs before they founded Apple. As someone interested in phreaking since 1995, I love this kind of stuff!](https://www.reddit.com/r/2600/comments/12n876l/the_blue_box_designed_and_built_by_steve_wozniak/)
 - [New exploit path for no user interaction attacks paper](https://www.reddit.com/r/2600/comments/12kny7m/new_exploit_path_for_no_user_interaction_attacks/)
-- [NEW 'Off The Hook' ONLINE](https://2600.com/hook/12-04-2023)
 <!-- BLOG-POST-LIST:END -->
