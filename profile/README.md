@@ -8,7 +8,7 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 <!-- BLOG-POST-LIST:START -->
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/25-04-2023)
 - [UPDATE: THE 2600 DIGITAL PUBLISHING CRISIS](https://2600.com/content/update-2600-digital-publishing-crisis)
-- [[offtopic] This one is for Brenly, Misgeek, and Phreaked](https://www.reddit.com/r/2600/comments/12xr2fq/offtopic_this_one_is_for_brenly_misgeek_and/)
 - [hack the planet! #bestedc1992](https://www.reddit.com/r/2600/comments/12x24qt/hack_the_planet_bestedc1992/)
 - [Why Microcode is important to a security researcher [34C3]](https://www.reddit.com/r/2600/comments/12wdjke/why_microcode_is_important_to_a_security/)
+- [Found today in Chicago's McCormick Place](https://www.reddit.com/r/2600/comments/12thqji/found_today_in_chicagos_mccormick_place/)
 <!-- BLOG-POST-LIST:END -->
