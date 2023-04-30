@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [Just found/joined the sub. Here’s my pride and joy.](https://www.reddit.com/r/2600/comments/133g93d/just_foundjoined_the_sub_heres_my_pride_and_joy/)
+- [My dad told me he had something for me at the house. 2600 Magazine, Fall 2002](https://www.reddit.com/r/2600/comments/133g690/my_dad_told_me_he_had_something_for_me_at_the/)
+- [Found on the back of a 2600 magazine from late 2002](https://www.reddit.com/r/2600/comments/133g1bl/found_on_the_back_of_a_2600_magazine_from_late/)
 - [2600 Yard concrete placemnt for new 4MG clearwell.](https://www.reddit.com/r/2600/comments/131lmgz/2600_yard_concrete_placemnt_for_new_4mg_clearwell/)
 - [Neighbour Spoofing / Caller ID](https://www.reddit.com/r/2600/comments/130mvhg/neighbour_spoofing_caller_id/)
-- [NEW 'Off The Wall' ONLINE](https://2600.com/wall/25-04-2023)
-- [UPDATE: THE 2600 DIGITAL PUBLISHING CRISIS](https://2600.com/content/update-2600-digital-publishing-crisis)
-- [hack the planet! #bestedc1992](https://www.reddit.com/r/2600/comments/12x24qt/hack_the_planet_bestedc1992/)
 <!-- BLOG-POST-LIST:END -->
