@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [NEW 'Off The Wall' ONLINE](https://2600.com/wall/09-05-2023)
 - [An Amiga 3000 Desktop running a 2 line BBS. This brings back memories!](https://www.reddit.com/r/2600/comments/13d3169/an_amiga_3000_desktop_running_a_2_line_bbs_this/)
 - [2600 Subreddit statistic](https://www.reddit.com/r/2600/comments/13cj19v/2600_subreddit_statistic/)
 - [Lazarus Heist: S2E7 - Crypto Comrades](https://www.reddit.com/r/2600/comments/13c5dcp/lazarus_heist_s2e7_crypto_comrades/)
 - [The Octagon, Dunedin, New Zealand](https://www.reddit.com/r/2600/comments/13bc4o5/the_octagon_dunedin_new_zealand/)
-- [Found in Rome](https://www.reddit.com/r/2600/comments/13au9nh/found_in_rome/)
 <!-- BLOG-POST-LIST:END -->
