@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [HACKERS: Dade's Camouflaged Luggable PC remade IRL](https://www.reddit.com/r/2600/comments/13h115e/hackers_dades_camouflaged_luggable_pc_remade_irl/)
 - [VOLUME 39 OF THE HACKER DIGEST RELEASED](https://2600.com/content/volume-39-hacker-digest-released)
 - ["What is Cyberpunk" man-on-the-street interview video from 1993. Wrong answers only.](https://www.reddit.com/r/2600/comments/13enn3t/what_is_cyberpunk_manonthestreet_interview_video/)
 - [Snubs is selling Retro Phones](https://www.reddit.com/r/2600/comments/13eckxz/snubs_is_selling_retro_phones/)
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/10-05-2023)
-- [NEW 'Off The Wall' ONLINE](https://2600.com/wall/09-05-2023)
 <!-- BLOG-POST-LIST:END -->
