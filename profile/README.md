@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [A hacker song?](https://www.reddit.com/r/2600/comments/13qmhbi/a_hacker_song/)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/23-05-2023)
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/17-05-2023)
 - [National museum of Scotland, Edinburgh](https://www.reddit.com/r/2600/comments/13jw9k2/national_museum_of_scotland_edinburgh/)
 - [Found Illuminating the pages of Ebay](https://www.reddit.com/r/2600/comments/13ju60n/found_illuminating_the_pages_of_ebay/)
-- [Is this the world's oldest Linux peripheral?](https://www.reddit.com/r/2600/comments/13ifwi1/is_this_the_worlds_oldest_linux_peripheral/)
 <!-- BLOG-POST-LIST:END -->
