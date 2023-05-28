@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [Phone Phreak Captain Crunch Rare Interview from '78](https://www.reddit.com/r/2600/comments/13u6g2f/phone_phreak_captain_crunch_rare_interview_from_78/)
 - [How do pagers (beepers) work](https://www.reddit.com/r/2600/comments/13tsl1z/how_do_pagers_beepers_work/)
 - [Year 1993.](https://www.reddit.com/r/2600/comments/13tqiju/year_1993/)
 - [Who is this? (Wrong answers only)](https://www.reddit.com/r/2600/comments/13tavfe/who_is_this_wrong_answers_only/)
 - [Question regarding phone dialing software and dial tones?](https://www.reddit.com/r/2600/comments/13sp63w/question_regarding_phone_dialing_software_and/)
-- [Virginia has just 40 pay phones left](https://www.reddit.com/r/2600/comments/13r4ztn/virginia_has_just_40_pay_phones_left/)
 <!-- BLOG-POST-LIST:END -->
