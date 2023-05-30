@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [Found in a remote campground on the edge of the Pacific Ocean and surrounded by warnings about bears, wolves, and cougars, this basic Telus payphone sits unused and out of service. (Fun fact: the poster on the left mentions that the site is located in a tsunami danger zone!)](https://www.reddit.com/r/2600/comments/13vs69f/found_in_a_remote_campground_on_the_edge_of_the/)
 - [William Gibson reveals the rather mundane way he coined the term "cyberspace" in this formerly-lost early 90's interview on Canadian TV.](https://www.reddit.com/r/2600/comments/13uu0tu/william_gibson_reveals_the_rather_mundane_way_he/)
 - [Dial 1 2B 1 w/ EVERYTHING](https://www.reddit.com/r/2600/comments/13u7rwz/dial_1_2b_1_w_everything/)
 - [Only Amiga Makes It Possible - Amiga 500 Promotional tape (1987)](https://www.reddit.com/r/2600/comments/13u74w0/only_amiga_makes_it_possible_amiga_500/)
 - [Phone Phreak Captain Crunch Rare Interview from '78](https://www.reddit.com/r/2600/comments/13u6g2f/phone_phreak_captain_crunch_rare_interview_from_78/)
-- [How do pagers (beepers) work](https://www.reddit.com/r/2600/comments/13tsl1z/how_do_pagers_beepers_work/)
 <!-- BLOG-POST-LIST:END -->
