@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [Blast from the Past XPost: [someone else] Found this old cable TV hack while cleaning my garage](https://www.reddit.com/r/2600/comments/13x31uh/blast_from_the_past_xpost_someone_else_found_this/)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/30-05-2023)
 - [2600 POLO SHIRTS BACK IN STOCK](https://2600.com/content/2600-polo-shirts-back-stock)
 - [Found in a remote campground on the edge of the Pacific Ocean and surrounded by warnings about bears, wolves, and cougars, this basic Telus payphone sits unused and out of service. (Fun fact: the poster on the left mentions that the site is located in a tsunami danger zone!)](https://www.reddit.com/r/2600/comments/13vs69f/found_in_a_remote_campground_on_the_edge_of_the/)
 - [William Gibson reveals the rather mundane way he coined the term "cyberspace" in this formerly-lost early 90's interview on Canadian TV.](https://www.reddit.com/r/2600/comments/13uu0tu/william_gibson_reveals_the_rather_mundane_way_he/)
-- [Dial 1 2B 1 w/ EVERYTHING](https://www.reddit.com/r/2600/comments/13u7rwz/dial_1_2b_1_w_everything/)
 <!-- BLOG-POST-LIST:END -->
