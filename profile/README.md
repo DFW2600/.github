@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [How Dangerous is ChatGPT Generated Code](https://www.reddit.com/r/2600/comments/140p9t4/how_dangerous_is_chatgpt_generated_code/)
 - [MediaTelevision (1993): Cyberpunks and Computer Hackers](https://www.reddit.com/r/2600/comments/13yda9t/mediatelevision_1993_cyberpunks_and_computer/)
 - [The hacker Kevin Mitnick was kept in solitary confinement for 8 months because "law enforcement told the judge that he could somehow dial into the NORAD modem via a payphone from prison and communicate with the modem by whistling to launch nuclear missiles." [crm]](https://www.reddit.com/r/2600/comments/13y8fdj/the_hacker_kevin_mitnick_was_kept_in_solitary/)
 - [This Drink Hacks The Planet](https://www.reddit.com/r/2600/comments/13xwyht/this_drink_hacks_the_planet/)
 - [2600 CELEBRATES PRIDE MONTH WITH RAINBOW HACKER SHIRT](https://2600.com/content/2600-celebrates-pride-month-rainbow-hacker-shirt)
-- [ARCHIVE: WUSB HISTORICAL VIDEO SERIES CONCLUDES](https://2600.com/content/archive-wusb-historical-video-series-concludes)
 <!-- BLOG-POST-LIST:END -->
