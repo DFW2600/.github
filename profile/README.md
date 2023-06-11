@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [Lemmy communities of interest?](https://www.reddit.com/r/2600/comments/146j1kr/lemmy_communities_of_interest/)
 - [mc.fly: Perimeter security is dead, get over it.](https://www.reddit.com/r/2600/comments/146eepf/mcfly_perimeter_security_is_dead_get_over_it/)
 - [Just a phone booth and some plant stuff in Turkey](https://www.reddit.com/r/2600/comments/144f4jl/just_a_phone_booth_and_some_plant_stuff_in_turkey/)
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/07-06-2023)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/06-06-2023)
-- [How Dangerous is ChatGPT Generated Code](https://www.reddit.com/r/2600/comments/140p9t4/how_dangerous_is_chatgpt_generated_code/)
 <!-- BLOG-POST-LIST:END -->
