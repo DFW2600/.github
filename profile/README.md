@@ -6,8 +6,8 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [NEW 'Off The Wall' ONLINE](https://2600.com/wall/13-06-2023)
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/07-06-2023)
-- [NEW 'Off The Wall' ONLINE](https://2600.com/wall/06-06-2023)
 - [2600 CELEBRATES PRIDE MONTH WITH RAINBOW HACKER SHIRT](https://2600.com/content/2600-celebrates-pride-month-rainbow-hacker-shirt)
 - [ARCHIVE: WUSB HISTORICAL VIDEO SERIES CONCLUDES](https://2600.com/content/archive-wusb-historical-video-series-concludes)
 - [2600 POLO SHIRTS BACK IN STOCK](https://2600.com/content/2600-polo-shirts-back-stock)
