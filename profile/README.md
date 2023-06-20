@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [[x-post] Volume 40 is live and trivia about @denzuko](https://www.reddit.com/r/2600/comments/14dy5a1/xpost_volume_40_is_live_and_trivia_about_denzuko/)
+- [Our Community standing and Future from here (aka) 2600 Lives on in the fediverse](https://www.reddit.com/r/2600/comments/14dxkwo/our_community_standing_and_future_from_here_aka/)
+- [Reddit going Evil Corp.](https://www.reddit.com/r/2600/comments/14c6zew/reddit_going_evil_corp/)
+- [User Poll - Go Federated, Stay dark, or Open Up](https://www.reddit.com/r/2600/comments/14an6wx/user_poll_go_federated_stay_dark_or_open_up/)
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/14-06-2023)
-- [NEW 'Off The Wall' ONLINE](https://2600.com/wall/13-06-2023)
-- [2600 CELEBRATES PRIDE MONTH WITH RAINBOW HACKER SHIRT](https://2600.com/content/2600-celebrates-pride-month-rainbow-hacker-shirt)
-- [ARCHIVE: WUSB HISTORICAL VIDEO SERIES CONCLUDES](https://2600.com/content/archive-wusb-historical-video-series-concludes)
-- [2600 POLO SHIRTS BACK IN STOCK](https://2600.com/content/2600-polo-shirts-back-stock)
 <!-- BLOG-POST-LIST:END -->
