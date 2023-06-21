@@ -15,7 +15,7 @@ on:
       - webhook
 
 env:
-  RSS_FEEDS: https://www.reddit.com/r/2600.rss,https://2600.com/rss.xml
+  RSS_FEEDS: https://www.reddit.com/r/2600.rss,https://2600.com/rss.xml,https://lemmy.world/c/2600.rss
 
 jobs:
 
