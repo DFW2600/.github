@@ -8,7 +8,7 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 <!-- BLOG-POST-LIST:START -->
 - [[x-post] Phone Phaq: 202 is the fastest dialed area code](https://www.reddit.com/r/2600/comments/14vazi2/xpost_phone_phaq_202_is_the_fastest_dialed_area/)
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/05-07-2023)
-- [NEW 'Off The Wall' ONLINE](https://2600.com/wall/04-07-2023)
 - [[x-post] Forest Hills/71st Avenue Subway Payphone: 718-520-9702](https://www.reddit.com/r/2600/comments/14hc2hm/xpost_forest_hills71st_avenue_subway_payphone/)
 - [Reddit down by 1.1 Million users as fediverse becomes the norm](https://www.reddit.com/r/2600/comments/14h3glv/reddit_down_by_11_million_users_as_fediverse/)
+- [[x-post] Volume 40 is live and trivia about @denzuko](https://www.reddit.com/r/2600/comments/14dy5a1/xpost_volume_40_is_live_and_trivia_about_denzuko/)
 <!-- BLOG-POST-LIST:END -->
