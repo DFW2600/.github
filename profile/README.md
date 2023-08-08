@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
-- [Burgers not dial tone](https://www.reddit.com/r/2600/comments/15k2ky2/burgers_not_dial_tone/)
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/02-08-2023)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/01-08-2023)
-- [Fwd: [hope-announce] Checking In](https://www.reddit.com/r/2600/comments/15bii83/fwd_hopeannounce_checking_in/)
-- [Q](https://www.reddit.com/r/2600/comments/156bgle/q/)
+- [SUMMER ISSUE OF 2600 RELEASED - AND MORE](https://2600.com/content/summer-issue-2600-released-and-more)
+- [PDF OR EPUB?](https://2600.com/content/pdf-or-epub)
+- [GET 2600 ON YOUR KINDLE](https://2600.com/content/get-2600-your-kindle)
 <!-- BLOG-POST-LIST:END -->
