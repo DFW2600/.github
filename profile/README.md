@@ -6,8 +6,8 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [NEW 'Off The Wall' ONLINE](https://2600.com/wall/15-08-2023)
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/09-08-2023)
-- [NEW 'Off The Wall' ONLINE](https://2600.com/wall/08-08-2023)
 - [SUMMER ISSUE OF 2600 RELEASED - AND MORE](https://2600.com/content/summer-issue-2600-released-and-more)
 - [PDF OR EPUB?](https://2600.com/content/pdf-or-epub)
 - [GET 2600 ON YOUR KINDLE](https://2600.com/content/get-2600-your-kindle)
