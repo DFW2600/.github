@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [NEW 'Off The Wall' ONLINE](https://2600.com/wall/15-08-2023)
 - [Burgers not dial tone](https://www.reddit.com/r/2600/comments/15k2ky2/burgers_not_dial_tone/)
 - [Fwd: [hope-announce] Checking In](https://www.reddit.com/r/2600/comments/15bii83/fwd_hopeannounce_checking_in/)
 - [Q](https://www.reddit.com/r/2600/comments/156bgle/q/)
 - [RIP Kevin Mitnick](https://www.reddit.com/r/2600/comments/155g2oq/rip_kevin_mitnick/)
-- [Kevin Mitnick, Hacker Who Once Eluded Authorities, Is Dead at 59](https://www.reddit.com/r/2600/comments/155d3v4/kevin_mitnick_hacker_who_once_eluded_authorities/)
 <!-- BLOG-POST-LIST:END -->
