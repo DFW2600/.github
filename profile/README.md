@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [Today in tech history: the first ever Interface Message Processor communication test between two systems (UCLA & SRI) was sent via ARPANET at 10:30pm PST on October 29, 1969. Bonus fact: this machine cost $82,200 to build!](https://www.reddit.com/r/2600/comments/164kmwd/today_in_tech_history_the_first_ever_interface/)
 - [This classic turns 28 next month. Sure it’s cheesy but it inspired 15 year old me to see the world a bit differently. What’s your favorite film about hacking/technology?](https://www.reddit.com/r/2600/comments/161zv44/this_classic_turns_28_next_month_sure_its_cheesy/)
 - [Anyone want to start a San Diego meeting?](https://www.reddit.com/r/2600/comments/15zske0/anyone_want_to_start_a_san_diego_meeting/)
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/23-08-2023)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/22-08-2023)
-- [Burgers not dial tone](https://www.reddit.com/r/2600/comments/15k2ky2/burgers_not_dial_tone/)
 <!-- BLOG-POST-LIST:END -->
