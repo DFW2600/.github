@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [NEW 'Off The Wall' ONLINE](https://2600.com/wall/29-08-2023)
 - [This classic turns 28 next month. Sure it’s cheesy but it inspired 15 year old me to see the world a bit differently. What’s your favorite film about hacking/technology?](https://www.reddit.com/r/2600/comments/161zv44/this_classic_turns_28_next_month_sure_its_cheesy/)
 - [Anyone want to start a San Diego meeting?](https://www.reddit.com/r/2600/comments/15zske0/anyone_want_to_start_a_san_diego_meeting/)
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/23-08-2023)
-- [NEW 'Off The Wall' ONLINE](https://2600.com/wall/22-08-2023)
 - [Burgers not dial tone](https://www.reddit.com/r/2600/comments/15k2ky2/burgers_not_dial_tone/)
 <!-- BLOG-POST-LIST:END -->
