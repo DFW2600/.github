@@ -7,8 +7,8 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/12-09-2023)
-- [The Atari VCS (later renamed 2600) was released in North America 46 years ago today. The first piece of technology I ever took apart to figure out how it worked. Also, it was a great system with fun games!](https://www.reddit.com/r/2600/comments/16fyjf7/the_atari_vcs_later_renamed_2600_was_released_in/)
 - [Why Is There a New Pay Phone on a Quiet Street in DC?](https://www.reddit.com/r/2600/comments/16efy82/why_is_there_a_new_pay_phone_on_a_quiet_street_in/)
 - [This classic turns 28 next month. Sure it’s cheesy but it inspired 15 year old me to see the world a bit differently. What’s your favorite film about hacking/technology?](https://www.reddit.com/r/2600/comments/161zv44/this_classic_turns_28_next_month_sure_its_cheesy/)
 - [Anyone want to start a San Diego meeting?](https://www.reddit.com/r/2600/comments/15zske0/anyone_want_to_start_a_san_diego_meeting/)
+- [Burgers not dial tone](https://www.reddit.com/r/2600/comments/15k2ky2/burgers_not_dial_tone/)
 <!-- BLOG-POST-LIST:END -->
