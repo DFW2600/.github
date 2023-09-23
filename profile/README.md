@@ -7,8 +7,8 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
 - [HLPC 2600 Patch](https://www.reddit.com/r/2600/comments/16out87/hlpc_2600_patch/)
-- [For those late night hacks, Jolt Cola, the soft drink of the elite hacker!](https://www.reddit.com/r/2600/comments/16o75oy/for_those_late_night_hacks_jolt_cola_the_soft/)
+- [NEW 'Off The Hook' ONLINE](https://2600.com/hook/20-09-2023)
+- [NEW 'Off The Wall' ONLINE](https://2600.com/wall/19-09-2023)
 - [Bell Adverts over the years](https://www.reddit.com/r/2600/comments/16kbbk2/bell_adverts_over_the_years/)
 - [So much Cringe its funny](https://www.reddit.com/r/2600/comments/16j9vs9/so_much_cringe_its_funny/)
-- [Why Is There a New Pay Phone on a Quiet Street in DC?](https://www.reddit.com/r/2600/comments/16efy82/why_is_there_a_new_pay_phone_on_a_quiet_street_in/)
 <!-- BLOG-POST-LIST:END -->
