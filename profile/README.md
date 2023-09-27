@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [Today in hacker history: (Sept 27, 1996) Condor is indicted on charges resulting from what the media calls a 2 1/2 year hacking spree, with a maximum possible sentence of 200 years incarceration. Kevin Mitnick inspired my interest in technology and I respected him greatly. Rest in peace good sir!](https://www.reddit.com/r/2600/comments/16tmtgq/today_in_hacker_history_sept_27_1996_condor_is/)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/26-09-2023)
 - [Listening to HAM Radio on a Steam Deck (aka scada hacking from a portable "gaming" hacker rig)](https://www.reddit.com/r/2600/comments/16rv2j5/listening_to_ham_radio_on_a_steam_deck_aka_scada/)
 - [HLPC 2600 Patch](https://www.reddit.com/r/2600/comments/16out87/hlpc_2600_patch/)
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/20-09-2023)
-- [Bell Adverts over the years](https://www.reddit.com/r/2600/comments/16kbbk2/bell_adverts_over_the_years/)
 <!-- BLOG-POST-LIST:END -->
