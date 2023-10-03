@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
-- [The Holborn 9120. Launched in 1981, only 200 sold, and the company filed for bankruptcy in 1983. I love the design aesthetic of PCs back then. This one looks like E.T. the Extra-Terrestrial.](https://www.reddit.com/r/2600/comments/16yuw0e/the_holborn_9120_launched_in_1981_only_200_sold/)
 - [An ARP/NDP swiss army knife to make MAC going nuts](https://www.reddit.com/r/2600/comments/16vvwrb/an_arpndp_swiss_army_knife_to_make_mac_going_nuts/)
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/27-09-2023)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/26-09-2023)
 - [Listening to HAM Radio on a Steam Deck (aka scada hacking from a portable "gaming" hacker rig)](https://www.reddit.com/r/2600/comments/16rv2j5/listening_to_ham_radio_on_a_steam_deck_aka_scada/)
+- [HLPC 2600 Patch](https://www.reddit.com/r/2600/comments/16out87/hlpc_2600_patch/)
 <!-- BLOG-POST-LIST:END -->
