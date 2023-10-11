@@ -7,8 +7,8 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/04-10-2023)
-- [NEW 'Off The Wall' ONLINE](https://2600.com/wall/03-10-2023)
 - [An ARP/NDP swiss army knife to make MAC going nuts](https://www.reddit.com/r/2600/comments/16vvwrb/an_arpndp_swiss_army_knife_to_make_mac_going_nuts/)
 - [Listening to HAM Radio on a Steam Deck (aka scada hacking from a portable "gaming" hacker rig)](https://www.reddit.com/r/2600/comments/16rv2j5/listening_to_ham_radio_on_a_steam_deck_aka_scada/)
 - [HLPC 2600 Patch](https://www.reddit.com/r/2600/comments/16out87/hlpc_2600_patch/)
+- [Bell Adverts over the years](https://www.reddit.com/r/2600/comments/16kbbk2/bell_adverts_over_the_years/)
 <!-- BLOG-POST-LIST:END -->
