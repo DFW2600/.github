@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
-- [Not a bad mail day at all!](https://www.reddit.com/r/2600/comments/17n10u4/not_a_bad_mail_day_at_all/)
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/01-11-2023)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/31-10-2023)
 - [AUTUMN ISSUE OF 2600 RELEASED - DIGITAL SUBSCRIPTIONS IN FULL SWING](https://2600.com/content/autumn-issue-2600-released-digital-subscriptions-full-swing)
-- [An ARP/NDP swiss army knife to make MAC going nuts](https://www.reddit.com/r/2600/comments/16vvwrb/an_arpndp_swiss_army_knife_to_make_mac_going_nuts/)
+- [SUMMER ISSUE OF 2600 RELEASED - AND MORE](https://2600.com/content/summer-issue-2600-released-and-more)
+- [PDF OR EPUB?](https://2600.com/content/pdf-or-epub)
 <!-- BLOG-POST-LIST:END -->
