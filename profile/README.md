@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [Feeling pretty nostalgic for the old BBS days. Playing LORD was so much fun back then!](https://www.reddit.com/r/2600/comments/188gsje/feeling_pretty_nostalgic_for_the_old_bbs_days/)
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/29-11-2023)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/28-11-2023)
 - [Yes! XP ugly sweater!](https://www.reddit.com/r/2600/comments/186ceoi/yes_xp_ugly_sweater/)
 - [HOLIDAY SPECIALS NOW AVAILABLE](https://2600.com/content/holiday-specials-now-available)
-- [This guy made Ben Eaters 8 Bit CPU In Digital Logic Sim!](https://www.reddit.com/r/2600/comments/184y4uv/this_guy_made_ben_eaters_8_bit_cpu_in_digital/)
 <!-- BLOG-POST-LIST:END -->
