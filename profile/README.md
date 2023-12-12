@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
-- [Did any of you start out as phreakers?](https://www.reddit.com/r/2600/comments/18c96oo/did_any_of_you_start_out_as_phreakers/)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/05-12-2023)
-- [Confuse the operator...](https://www.reddit.com/r/2600/comments/18apile/confuse_the_operator/)
-- [New Admin guidelines being proposed, effects the discord as well](https://www.reddit.com/r/2600/comments/18am02d/new_admin_guidelines_being_proposed_effects_the/)
-- [Yes! XP ugly sweater!](https://www.reddit.com/r/2600/comments/186ceoi/yes_xp_ugly_sweater/)
+- [HOLIDAY SPECIALS NOW AVAILABLE](https://2600.com/content/holiday-specials-now-available)
+- [AUTUMN ISSUE OF 2600 RELEASED - DIGITAL SUBSCRIPTIONS IN FULL SWING](https://2600.com/content/autumn-issue-2600-released-digital-subscriptions-full-swing)
+- [SUMMER ISSUE OF 2600 RELEASED - AND MORE](https://2600.com/content/summer-issue-2600-released-and-more)
+- [PDF OR EPUB?](https://2600.com/content/pdf-or-epub)
 <!-- BLOG-POST-LIST:END -->
