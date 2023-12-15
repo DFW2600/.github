@@ -8,7 +8,7 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 <!-- BLOG-POST-LIST:START -->
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/13-12-2023)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/12-12-2023)
-- [HOPE XV OFFICIALLY ANNOUNCED - SPECIAL TICKET DEAL THIS WEEK](https://2600.com/content/hope-xv-officially-announced-special-ticket-deal-week)
+- [HOPE XV OFFICIALLY ANNOUNCED](https://2600.com/content/hope-xv-officially-announced)
 - [HOLIDAY SPECIALS NOW AVAILABLE](https://2600.com/content/holiday-specials-now-available)
 - [AUTUMN ISSUE OF 2600 RELEASED - DIGITAL SUBSCRIPTIONS IN FULL SWING](https://2600.com/content/autumn-issue-2600-released-digital-subscriptions-full-swing)
 <!-- BLOG-POST-LIST:END -->
