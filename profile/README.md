@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [NEW 'Off The Wall' ONLINE](https://2600.com/wall/09-01-2024)
 - [[Albany2600] Pwn2Own deep dive](https://www.reddit.com/r/2600/comments/1913aqv/albany2600_pwn2own_deep_dive/)
 - [Saw this beauty for sale if anyone might be interested I can give you their contact](https://www.reddit.com/r/2600/comments/190cfcd/saw_this_beauty_for_sale_if_anyone_might_be/)
 - [You Wouldn't Download an Adblocker](https://www.reddit.com/r/2600/comments/190081i/you_wouldnt_download_an_adblocker/)
 - [TIL; A Hacker's Manifesto](https://www.reddit.com/r/2600/comments/18zz81v/til_a_hackers_manifesto/)
-- [So like, do we still actively meet on first Fridays?](https://www.reddit.com/r/2600/comments/18zpn3b/so_like_do_we_still_actively_meet_on_first_fridays/)
 <!-- BLOG-POST-LIST:END -->
