@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [NEW 'Off The Hook' ONLINE](https://2600.com/hook/10-01-2024)
 - [Japan’s famous yet elusive Duet Phone. I wonder about the fun that could be had with the second handset.](https://www.reddit.com/r/2600/comments/193bgcp/japans_famous_yet_elusive_duet_phone_i_wonder/)
 - [HOPE XV TICKETS GO ON SALE TODAY!](https://2600.com/content/hope-xv-tickets-go-sale-today)
 - [Surviving Pay Phone](https://www.reddit.com/r/2600/comments/192xwau/surviving_pay_phone/)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/09-01-2024)
-- [[Albany2600] Pwn2Own deep dive](https://www.reddit.com/r/2600/comments/1913aqv/albany2600_pwn2own_deep_dive/)
 <!-- BLOG-POST-LIST:END -->
