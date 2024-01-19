@@ -10,5 +10,5 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 - [AT&T Telessentials Curriculum series (everything you wanted to know about telephones but didn't know what to ask)](https://www.reddit.com/r/2600/comments/199jkon/att_telessentials_curriculum_series_everything/)
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/17-01-2024)
 - [Phreaking](https://www.reddit.com/r/2600/comments/199c284/phreaking/)
-- [I came across the HackRF One w/ PortaPack H2 this morning and I’m intrigued! I’d love to hear your thoughts on it (or any Flipper Zero alternatives).](https://www.reddit.com/r/2600/comments/198zf5c/i_came_across_the_hackrf_one_w_portapack_h2_this/)
+- [NEW 'Off The Wall' ONLINE](https://2600.com/wall/16-01-2024)
 <!-- BLOG-POST-LIST:END -->
