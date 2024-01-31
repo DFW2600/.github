@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [Idk if I ever posted this but somewhere between Utah and Wendover..](https://www.reddit.com/r/2600/comments/1afbwgn/idk_if_i_ever_posted_this_but_somewhere_between/)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/30-01-2024)
 - [Operator?](https://www.reddit.com/r/2600/comments/1aez1hu/operator/)
 - [The Phone Number That Changed My Life When I Was 12](https://www.reddit.com/r/2600/comments/1adedjc/the_phone_number_that_changed_my_life_when_i_was/)
 - [What was the closing music of tonight's (2024/01/24) Off The Hook show?](https://www.reddit.com/r/2600/comments/19f3ic4/what_was_the_closing_music_of_tonights_20240124/)
-- [NEW 'Off The Hook' ONLINE](https://2600.com/hook/24-01-2024)
 <!-- BLOG-POST-LIST:END -->
