@@ -8,7 +8,7 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 <!-- BLOG-POST-LIST:START -->
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/06-02-2024)
 - [I hear there's a hidden message in this file for only the most brain fracked mines can decipher](https://www.reddit.com/r/2600/comments/1ak5fw0/i_hear_theres_a_hidden_message_in_this_file_for/)
-- [Twentieth Anniversary Macintosh (TAM): Released in 1997, it was the only computer hand-delivered to your door by a man in a tuxedo driving a limousine.](https://www.reddit.com/r/2600/comments/1aiuxxc/twentieth_anniversary_macintosh_tam_released_in/)
 - [Found a few things in the wild thanks to #albany2600 guys. Someone did a podcast there as well.](https://www.reddit.com/r/2600/comments/1ai9nn8/found_a_few_things_in_the_wild_thanks_to/)
 - [Idk if I ever posted this but somewhere between Utah and Wendover..](https://www.reddit.com/r/2600/comments/1afbwgn/idk_if_i_ever_posted_this_but_somewhere_between/)
+- [Operator?](https://www.reddit.com/r/2600/comments/1aez1hu/operator/)
 <!-- BLOG-POST-LIST:END -->
