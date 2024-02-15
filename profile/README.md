@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [NEW 'Off The Hook' ONLINE](https://2600.com/hook/14-02-2024)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/13-02-2024)
 - [Where's Bernie S?](https://www.reddit.com/r/2600/comments/1apr9zz/wheres_bernie_s/)
 - [Found a bag of goodies at the flea market.](https://www.reddit.com/r/2600/comments/1aoifkt/found_a_bag_of_goodies_at_the_flea_market/)
 - [B00kz 2.](https://www.reddit.com/r/2600/comments/1amnkk5/b00kz_2/)
-- [I hear there's a hidden message in this file for only the most brain fracked mines can decipher](https://www.reddit.com/r/2600/comments/1ak5fw0/i_hear_theres_a_hidden_message_in_this_file_for/)
 <!-- BLOG-POST-LIST:END -->
