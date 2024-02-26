@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [Did you get excited about new peripherals or hardware growing up? I received a Zip drive for my 15th birthday and I was thrilled until it developed the click of death..](https://www.reddit.com/r/2600/comments/1b0kcmo/did_you_get_excited_about_new_peripherals_or/)
 - [Best historical Off The Hook episodes](https://www.reddit.com/r/2600/comments/1b0d78r/best_historical_off_the_hook_episodes/)
 - [Hubba Hubba](https://www.reddit.com/r/2600/comments/1b05ept/hubba_hubba/)
 - [Need to find something to watch as those packets flow, try looking over the Awesome list of Movies for Hackers](https://www.reddit.com/r/2600/comments/1ayfy9s/need_to_find_something_to_watch_as_those_packets/)
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/21-02-2024)
-- [NEW 'Off The Wall' ONLINE](https://2600.com/wall/20-02-2024)
 <!-- BLOG-POST-LIST:END -->
