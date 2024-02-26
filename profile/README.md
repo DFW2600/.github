@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [Floppy disk drives through the years.](https://www.reddit.com/r/2600/comments/1b03mth/floppy_disk_drives_through_the_years/)
 - [Need to find something to watch as those packets flow, try looking over the Awesome list of Movies for Hackers](https://www.reddit.com/r/2600/comments/1ayfy9s/need_to_find_something_to_watch_as_those_packets/)
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/21-02-2024)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/20-02-2024)
 - [!31337 Hax](https://www.reddit.com/r/2600/comments/1avvuag/31337_hax/)
-- [Where's Bernie S?](https://www.reddit.com/r/2600/comments/1apr9zz/wheres_bernie_s/)
 <!-- BLOG-POST-LIST:END -->
