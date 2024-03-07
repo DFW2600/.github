@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [This is where it started for me.](https://www.reddit.com/r/2600/comments/1b90ko2/this_is_where_it_started_for_me/)
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/06-03-2024)
 - [Let's see what happens this could be fun . . .](https://www.reddit.com/r/2600/comments/1b3ecot/lets_see_what_happens_this_could_be_fun/)
 - [Hey what ever happened to DougTV and this dork?!](https://www.reddit.com/r/2600/comments/1b180um/hey_what_ever_happened_to_dougtv_and_this_dork/)
 - [Best historical Off The Hook episodes](https://www.reddit.com/r/2600/comments/1b0d78r/best_historical_off_the_hook_episodes/)
-- [Hubba Hubba](https://www.reddit.com/r/2600/comments/1b05ept/hubba_hubba/)
 <!-- BLOG-POST-LIST:END -->
