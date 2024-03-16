@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [Reddit’s Sale of User Data for AI Training Draws FTC Inquiry](https://www.reddit.com/r/2600/comments/1bftdi5/reddits_sale_of_user_data_for_ai_training_draws/)
 - [PORTAL KOMBAT A structured and coordinated pro-Russian propaganda network](https://www.reddit.com/r/2600/comments/1bf2nfc/portal_kombat_a_structured_and_coordinated/)
 - [NEW HOTEL DEALS ANNOUNCED FOR HOPE CONFERENCE](https://2600.com/content/new-hotel-deals-announced-hope-conference)
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/13-03-2024)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/12-03-2024)
-- [TIL the U.S. Air Force was using 8-inch floppy disks as recently as 2019!](https://www.reddit.com/r/2600/comments/1bd77gs/til_the_us_air_force_was_using_8inch_floppy_disks/)
 <!-- BLOG-POST-LIST:END -->
