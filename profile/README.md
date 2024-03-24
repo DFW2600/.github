@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [How did you discover 2600?](https://www.reddit.com/r/2600/comments/1bmmqr9/how_did_you_discover_2600/)
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/20-03-2024)
 - [State capital](https://www.reddit.com/r/2600/comments/1bjld8j/state_capital/)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/19-03-2024)
 - [Bill Gates sucks, Windows takes more and more control from users every update... Is there a hack to deny "Forced Window switching" aka "Window Focus moving"?](https://www.reddit.com/r/2600/comments/1bhtd8a/bill_gates_sucks_windows_takes_more_and_more/)
-- [Yo Dude, I'm blowing up!](https://www.reddit.com/r/2600/comments/1bg6you/yo_dude_im_blowing_up/)
 <!-- BLOG-POST-LIST:END -->
