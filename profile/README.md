@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [HOPE XV TICKET SALES TO BENEFIT EFF THROUGHOUT APRIL](https://2600.com/content/hope-xv-ticket-sales-benefit-eff-throughout-april)
 - [The Woz takes on YT, Section 230(c)(2), and Cryptoscammers](https://www.reddit.com/r/2600/comments/1bs6n8n/the_woz_takes_on_yt_section_230c2_and/)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/26-03-2024)
 - [New York Capital Region (Albany) 2600 Chapter: New Location](https://www.reddit.com/r/2600/comments/1bohne9/new_york_capital_region_albany_2600_chapter_new/)
 - [State capital](https://www.reddit.com/r/2600/comments/1bjld8j/state_capital/)
-- [Bill Gates sucks, Windows takes more and more control from users every update... Is there a hack to deny "Forced Window switching" aka "Window Focus moving"?](https://www.reddit.com/r/2600/comments/1bhtd8a/bill_gates_sucks_windows_takes_more_and_more/)
 <!-- BLOG-POST-LIST:END -->
