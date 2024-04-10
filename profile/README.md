@@ -10,5 +10,5 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 - [Unity3d violated Breach of Contract Laws, so I knew it was time to dev airgapped because of the Adobe Kill Bit happened when they went criminal. I was right, Unity revoking licenses left and right. I have more lore and questions for the 2600 crew.](https://www.reddit.com/r/2600/comments/1byjkcr/unity3d_violated_breach_of_contract_laws_so_i/)
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/03-04-2024)
 - [SPRING ISSUE OF 2600 RELEASED](https://2600.com/content/spring-issue-2600-released-18)
-- [NEW 'Off The Wall' ONLINE](https://2600.com/wall/02-04-2024)
+- [Storing Files in the Walmart Chip aisle](https://www.reddit.com/r/2600/comments/1btesxr/storing_files_in_the_walmart_chip_aisle/)
 <!-- BLOG-POST-LIST:END -->
