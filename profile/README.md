@@ -10,5 +10,5 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 - [Did any of you start out as phreakers?](https://www.reddit.com/r/2600/comments/1c0oncq/did_any_of_you_start_out_as_phreakers/)
 - [SILL Database French Gov](https://www.reddit.com/r/2600/comments/1bz9vt7/sill_database_french_gov/)
 - [Unity3d violated Breach of Contract Laws, so I knew it was time to dev airgapped because of the Adobe Kill Bit happened when they went criminal. I was right, Unity revoking licenses left and right. I have more lore and questions for the 2600 crew.](https://www.reddit.com/r/2600/comments/1byjkcr/unity3d_violated_breach_of_contract_laws_so_i/)
-- [NEW 'Off The Hook' ONLINE](https://2600.com/hook/03-04-2024)
+- [SPRING ISSUE OF 2600 RELEASED](https://2600.com/content/spring-issue-2600-released-18)
 <!-- BLOG-POST-LIST:END -->
