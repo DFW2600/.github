@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [This one is for the record books](https://www.reddit.com/r/2600/comments/1c8a6jn/this_one_is_for_the_record_books/)
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/17-04-2024)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/16-04-2024)
 - [Need Help](https://www.reddit.com/r/2600/comments/1c0orvk/need_help/)
 - [SILL Database French Gov](https://www.reddit.com/r/2600/comments/1bz9vt7/sill_database_french_gov/)
-- [Unity3d violated Breach of Contract Laws, so I knew it was time to dev airgapped because of the Adobe Kill Bit happened when they went criminal. I was right, Unity revoking licenses left and right. I have more lore and questions for the 2600 crew.](https://www.reddit.com/r/2600/comments/1byjkcr/unity3d_violated_breach_of_contract_laws_so_i/)
 <!-- BLOG-POST-LIST:END -->
