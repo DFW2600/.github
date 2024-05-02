@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [FIRST BATCH OF HOPE XV TALKS ANNOUNCED - DEADLINE MAY 20](https://2600.com/content/first-batch-hope-xv-talks-announced-deadline-may-20)
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/01-05-2024)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/30-04-2024)
 - [Albany 2600](https://www.reddit.com/r/2600/comments/1ch5rvl/albany_2600/)
 - [Toll-Free Woes: Clogging Jerry's phones](https://www.reddit.com/r/2600/comments/1cbzi3s/tollfree_woes_clogging_jerrys_phones/)
-- [This one is for the record books](https://www.reddit.com/r/2600/comments/1c8a6jn/this_one_is_for_the_record_books/)
 <!-- BLOG-POST-LIST:END -->
