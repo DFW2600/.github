@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [SECOND BATCH OF HOPE XV TALKS RELEASED - DEADLINE APPROACHING](https://2600.com/content/second-batch-hope-xv-talks-released-deadline-approaching)
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/08-05-2024)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/07-05-2024)
 - [Blast from the past: Emmanuel on Charlie Rose](https://www.reddit.com/r/2600/comments/1cjf7ad/blast_from_the_past_emmanuel_on_charlie_rose/)
 - [FIRST BATCH OF HOPE XV TALKS ANNOUNCED - DEADLINE MAY 20](https://2600.com/content/first-batch-hope-xv-talks-announced-deadline-may-20)
-- [Albany 2600](https://www.reddit.com/r/2600/comments/1ch5rvl/albany_2600/)
 <!-- BLOG-POST-LIST:END -->
