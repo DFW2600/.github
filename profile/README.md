@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [Are you going to HOPE this year?](https://www.reddit.com/r/2600/comments/1cv24ga/are_you_going_to_hope_this_year/)
 - [What happens to IT security jobs when AGI achieved.](https://www.reddit.com/r/2600/comments/1ctxlfw/what_happens_to_it_security_jobs_when_agi_achieved/)
 - [Abandoned telephone booth in Japan.](https://www.reddit.com/r/2600/comments/1cszvwh/abandoned_telephone_booth_in_japan/)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/14-05-2024)
 - [SECOND BATCH OF HOPE XV TALKS RELEASED - DEADLINE APPROACHING](https://2600.com/content/second-batch-hope-xv-talks-released-deadline-approaching)
-- [Blast from the past: Emmanuel on Charlie Rose](https://www.reddit.com/r/2600/comments/1cjf7ad/blast_from_the_past_emmanuel_on_charlie_rose/)
 <!-- BLOG-POST-LIST:END -->
