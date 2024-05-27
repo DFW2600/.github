@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [Working phone booth! - 50's Cafe @ 11623 Santa Monica Blvd, Los Angeles, CA 90025](https://www.reddit.com/r/2600/comments/1d1iry9/working_phone_booth_50s_cafe_11623_santa_monica/)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/21-05-2024)
 - [Hot water over internet; WCGW?](https://www.reddit.com/r/2600/comments/1cvpy2b/hot_water_over_internet_wcgw/)
 - [What happens to IT security jobs when AGI achieved.](https://www.reddit.com/r/2600/comments/1ctxlfw/what_happens_to_it_security_jobs_when_agi_achieved/)
 - [Abandoned telephone booth in Japan.](https://www.reddit.com/r/2600/comments/1cszvwh/abandoned_telephone_booth_in_japan/)
-- [SECOND BATCH OF HOPE XV TALKS RELEASED - DEADLINE APPROACHING](https://2600.com/content/second-batch-hope-xv-talks-released-deadline-approaching)
 <!-- BLOG-POST-LIST:END -->
