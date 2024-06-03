@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [[Hackshot] I am making a satirical hacking game, and this sub is a gold mine. What jokes / references are a must have?](https://www.reddit.com/r/2600/comments/1d74gzr/hackshot_i_am_making_a_satirical_hacking_game_and/)
 - [VOLUME 40 OF THE HACKER DIGEST RELEASED](https://2600.com/content/volume-40-hacker-digest-released)
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/29-05-2024)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/28-05-2024)
 - [THIRD BATCH OF HOPE XV TALKS ANNOUNCED - MANY MORE COMING](https://2600.com/content/third-batch-hope-xv-talks-announced-many-more-coming)
-- [Working phone booth! - 50's Cafe @ 11623 Santa Monica Blvd, Los Angeles, CA 90025](https://www.reddit.com/r/2600/comments/1d1iry9/working_phone_booth_50s_cafe_11623_santa_monica/)
 <!-- BLOG-POST-LIST:END -->
