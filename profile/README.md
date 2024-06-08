@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [I’ve been asked a few times by young folks how to start being a hacker or tinker. I always say “learn to solder”.](https://www.reddit.com/r/2600/comments/1db74ou/ive_been_asked_a_few_times_by_young_folks_how_to/)
 - [Albany 2600 Meeting Tomorrow](https://www.reddit.com/r/2600/comments/1d9won3/albany_2600_meeting_tomorrow/)
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/05-06-2024)
 - [Hey Dallas! I'll be seeing you all on Friday.](https://www.reddit.com/r/2600/comments/1d930kf/hey_dallas_ill_be_seeing_you_all_on_friday/)
 - [The Origins of Hacker Culture (documentary)](https://www.reddit.com/r/2600/comments/1d8sl8f/the_origins_of_hacker_culture_documentary/)
-- [NEW 'Off The Wall' ONLINE](https://2600.com/wall/04-06-2024)
 <!-- BLOG-POST-LIST:END -->
