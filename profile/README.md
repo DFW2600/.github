@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [HOPE NEEDS YOUR HELP! - UPDATE](https://2600.com/content/hope-needs-your-help-update)
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/12-06-2024)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/11-06-2024)
-- [HOPE NEEDS YOUR HELP!](https://2600.com/content/hope-needs-your-help)
 - [Albany 2600 Meeting Tomorrow](https://www.reddit.com/r/2600/comments/1d9won3/albany_2600_meeting_tomorrow/)
 - [Hey Dallas! I'll be seeing you all on Friday.](https://www.reddit.com/r/2600/comments/1d930kf/hey_dallas_ill_be_seeing_you_all_on_friday/)
 <!-- BLOG-POST-LIST:END -->
