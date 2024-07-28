@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
-- [Found my old moleskine notebook with every business plan i'd write up while on lunch break at a mall starbucks](https://www.reddit.com/r/2600/comments/1edxq8d/found_my_old_moleskine_notebook_with_every/)
 - [Any pro-Ukrainian peeps here?](https://www.reddit.com/r/2600/comments/1edk0vw/any_proukrainian_peeps_here/)
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/24-07-2024)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/23-07-2024)
 - [TODAY IS THE LAST DAY FOR ONLINE HOPE TICKET SALES](https://2600.com/content/today-last-day-online-hope-ticket-sales)
+- [Happy 4th of July! Here is the Independence Day film homepage (1996). Learn the secret lore of Area 51, read cast bios, download screensavers, hear the President's epic speech in WAV format, and watch the teaser trailer in 160x120 MOV.](https://www.reddit.com/r/2600/comments/1dv77ki/happy_4th_of_july_here_is_the_independence_day/)
 <!-- BLOG-POST-LIST:END -->
