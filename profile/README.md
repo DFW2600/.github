@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is ham radio going the way of fidonet?](https://www.reddit.com/r/2600/comments/1ekrmr0/is_ham_radio_going_the_way_of_fidonet/)
 - [Active groups in central PA, USA](https://www.reddit.com/r/2600/comments/1ekov6g/active_groups_in_central_pa_usa/)
 - [HOPE XV UPDATE ON T-SHIRTS AND BADGE KITS](https://2600.com/content/hope-xv-update-t-shirts-and-badge-kits)
 - [Modern Public telephone in Killarney Ireland!](https://www.reddit.com/r/2600/comments/1ehlebv/modern_public_telephone_in_killarney_ireland/)
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/31-07-2024)
-- [NEW 'Off The Wall' ONLINE](https://2600.com/wall/30-07-2024)
 <!-- BLOG-POST-LIST:END -->
