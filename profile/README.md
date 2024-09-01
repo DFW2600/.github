@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
-- [I found a working payphone. Called a friend. We were both blown away by this. 😄](https://www.reddit.com/r/2600/comments/1f5u43i/i_found_a_working_payphone_called_a_friend_we/)
 - [Oldie but goodie - Virus Alert](https://www.reddit.com/r/2600/comments/1f4lvlq/oldie_but_goodie_virus_alert/)
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/28-08-2024)
 - [i'm old . . .](https://www.reddit.com/r/2600/comments/1f3oty4/im_old/)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/27-08-2024)
+- [Yo dude, I'm blowing up](https://www.reddit.com/r/2600/comments/1esxap3/yo_dude_im_blowing_up/)
 <!-- BLOG-POST-LIST:END -->
