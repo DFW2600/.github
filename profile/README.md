@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [NEW 'Off The Hook' ONLINE](https://2600.com/hook/04-09-2024)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/03-09-2024)
 - [Oldie but goodie - Virus Alert](https://www.reddit.com/r/2600/comments/1f4lvlq/oldie_but_goodie_virus_alert/)
 - [i'm old . . .](https://www.reddit.com/r/2600/comments/1f3oty4/im_old/)
 - [Yo dude, I'm blowing up](https://www.reddit.com/r/2600/comments/1esxap3/yo_dude_im_blowing_up/)
-- [For crying out loud... 00:26 seconds in and now I cannot get Off The Hook's Theme song out of my head!!](https://www.reddit.com/r/2600/comments/1epwei9/for_crying_out_loud_0026_seconds_in_and_now_i/)
 <!-- BLOG-POST-LIST:END -->
