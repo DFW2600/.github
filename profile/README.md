@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
-- [Apple Macintosh PowerBook Duo, Apple Newton MessagePad and Apple External Floppy Drive spotted in ‘Hackers’ along with two issues of ‘2600’ for good measure.](https://www.reddit.com/r/2600/comments/1fkwx2z/apple_macintosh_powerbook_duo_apple_newton/)
 - [Make hacker zines great again](https://www.reddit.com/r/2600/comments/1fkfb66/make_hacker_zines_great_again/)
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/18-09-2024)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/17-09-2024)
 - [Payphone Long Beach, California](https://www.reddit.com/r/2600/comments/1ffl6e3/payphone_long_beach_california/)
+- [Price of a NY Pizza for hack night is leet!](https://www.reddit.com/r/2600/comments/1fca9ta/price_of_a_ny_pizza_for_hack_night_is_leet/)
 <!-- BLOG-POST-LIST:END -->
