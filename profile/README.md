@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Chicago-land (Oak Lawn) 2600 has re-opened and all are welcome to learn, grow and share.](https://www.reddit.com/r/2600/comments/1fzflc1/the_chicagoland_oak_lawn_2600_has_reopened_and/)
+- [NEW 'Off The Wall' ONLINE](https://2600.com/wall/08-10-2024)
 - [dunno if this title gets used](https://2600.com/node/38483)
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/02-10-2024)
 - [How 2600 members cracked VOIP Secret Numbers Stations](https://www.reddit.com/r/2600/comments/1futmqy/how_2600_members_cracked_voip_secret_numbers/)
-- [NEW 'Off The Wall' ONLINE](https://2600.com/wall/01-10-2024)
-- [Off the hook subreddit?](https://www.reddit.com/r/2600/comments/1fu27x2/off_the_hook_subreddit/)
 <!-- BLOG-POST-LIST:END -->
