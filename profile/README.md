@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
-- [NEW 'Off The Hook' ONLINE](https://2600.com/hook/09-10-2024)
 - [The Chicago-land (Oak Lawn) 2600 has re-opened and all are welcome to learn, grow and share.](https://www.reddit.com/r/2600/comments/1fzflc1/the_chicagoland_oak_lawn_2600_has_reopened_and/)
-- [NEW 'Off The Wall' ONLINE](https://2600.com/wall/08-10-2024)
-- [dunno if this title gets used](https://2600.com/node/38483)
 - [How 2600 members cracked VOIP Secret Numbers Stations](https://www.reddit.com/r/2600/comments/1futmqy/how_2600_members_cracked_voip_secret_numbers/)
+- [Off the hook subreddit?](https://www.reddit.com/r/2600/comments/1fu27x2/off_the_hook_subreddit/)
+- [Futel utilizes forgotten payphones with free calls for anyone](https://www.reddit.com/r/2600/comments/1fsmjk0/futel_utilizes_forgotten_payphones_with_free/)
+- [Hacker's Encyclopedia (A snapshot in the hacker culture that live on in 2600)](https://www.reddit.com/r/2600/comments/1fphvxj/hackers_encyclopedia_a_snapshot_in_the_hacker/)
 <!-- BLOG-POST-LIST:END -->
