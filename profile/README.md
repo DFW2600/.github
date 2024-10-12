@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [This is where my interest in tech started.](https://www.reddit.com/r/2600/comments/1g26k2x/this_is_where_my_interest_in_tech_started/)
 - [HOPE XV VIDEOS NOW AVAILABLE](https://2600.com/content/hope-xv-videos-now-available)
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/09-10-2024)
 - [The Chicago-land (Oak Lawn) 2600 has re-opened and all are welcome to learn, grow and share.](https://www.reddit.com/r/2600/comments/1fzflc1/the_chicagoland_oak_lawn_2600_has_reopened_and/)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/08-10-2024)
-- [dunno if this title gets used](https://2600.com/node/38483)
 <!-- BLOG-POST-LIST:END -->
