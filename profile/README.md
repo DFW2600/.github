@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [PRT (Puerto Rico)](https://www.reddit.com/r/2600/comments/1ge84pg/prt_puerto_rico/)
 - [ARPANET crashed 44 years ago today.](https://www.reddit.com/r/2600/comments/1gdm416/arpanet_crashed_44_years_ago_today/)
 - [Seen in Aomori, Japan](https://www.reddit.com/r/2600/comments/1gcz59a/seen_in_aomori_japan/)
 - [AUTUMN ISSUE OF 2600 RELEASED](https://2600.com/content/autumn-issue-2600-released-16)
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/23-10-2024)
-- [NEW 'Off The Wall' ONLINE](https://2600.com/wall/22-10-2024)
 <!-- BLOG-POST-LIST:END -->
