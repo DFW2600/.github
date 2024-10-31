@@ -10,5 +10,5 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 - [PRT (Puerto Rico)](https://www.reddit.com/r/2600/comments/1ge84pg/prt_puerto_rico/)
 - [Seen in Aomori, Japan](https://www.reddit.com/r/2600/comments/1gcz59a/seen_in_aomori_japan/)
 - [AUTUMN ISSUE OF 2600 RELEASED](https://2600.com/content/autumn-issue-2600-released-16)
-- [NEW 'Off The Hook' ONLINE](https://2600.com/hook/23-10-2024)
+- [Found in a small Kansas town.](https://www.reddit.com/r/2600/comments/1g9ul49/found_in_a_small_kansas_town/)
 <!-- BLOG-POST-LIST:END -->
