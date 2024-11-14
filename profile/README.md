@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [FYI. A Warrant Isn’t Needed': Secret Service Says You Agreed To Be Tracked With Location Data](https://www.reddit.com/r/2600/comments/1gr5cg3/fyi_a_warrant_isnt_needed_secret_service_says_you/)
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/13-11-2024)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/12-11-2024)
 - [Current Issue is out](https://www.reddit.com/r/2600/comments/1gmf0dd/current_issue_is_out/)
 - [Fuck it. 2600.com is down for me, anyone else?](https://www.reddit.com/r/2600/comments/1gm7hwt/fuck_it_2600com_is_down_for_me_anyone_else/)
-- [PBS News Hour | Election security officials tracking attempts to sow chaos | Season 2024 | PBS](https://www.reddit.com/r/2600/comments/1gjz9pb/pbs_news_hour_election_security_officials/)
 <!-- BLOG-POST-LIST:END -->
