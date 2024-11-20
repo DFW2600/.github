@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Phone Company](https://www.reddit.com/r/2600/comments/1gvwuf6/the_phone_company/)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/19-11-2024)
 - [TIL that in the twisted copper pair era, there was a conspiracy theory that every phone from Ma Bell could at any point be turned into a room tap](https://www.reddit.com/r/2600/comments/1gt6ed4/til_that_in_the_twisted_copper_pair_era_there_was/)
 - [What is this coin for?](https://www.reddit.com/r/2600/comments/1gt2q1h/what_is_this_coin_for/)
 - [HP 9845C in WarGames](https://www.reddit.com/r/2600/comments/1gsse4l/hp_9845c_in_wargames/)
-- [Public Phone in Taipei, Taiwan](https://www.reddit.com/r/2600/comments/1gskec2/public_phone_in_taipei_taiwan/)
 <!-- BLOG-POST-LIST:END -->
