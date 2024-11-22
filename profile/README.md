@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Research Lab The US Government Shutdown in 1984](https://www.reddit.com/r/2600/comments/1gwwc5c/the_research_lab_the_us_government_shutdown_in/)
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/20-11-2024)
 - [The Phone Company](https://www.reddit.com/r/2600/comments/1gvwuf6/the_phone_company/)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/19-11-2024)
 - [TIL that in the twisted copper pair era, there was a conspiracy theory that every phone from Ma Bell could at any point be turned into a room tap](https://www.reddit.com/r/2600/comments/1gt6ed4/til_that_in_the_twisted_copper_pair_era_there_was/)
-- [What is this coin for?](https://www.reddit.com/r/2600/comments/1gt2q1h/what_is_this_coin_for/)
 <!-- BLOG-POST-LIST:END -->
