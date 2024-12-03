@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [Hanging in there](https://www.reddit.com/r/2600/comments/1h5vehb/hanging_in_there/)
 - [2600 HOLIDAY SPECIALS NOW AVAILABLE](https://2600.com/content/2600-holiday-specials-now-available-0)
 - [Hacking Smarter, Not Harder: Inside the World of Mr. CrackBot AI🤖🥷🏻📡](https://www.reddit.com/r/2600/comments/1h534dv/hacking_smarter_not_harder_inside_the_world_of_mr/)
 - [Befriend the aborpo](https://www.reddit.com/r/2600/comments/1h4d4b8/befriend_the_aborpo/)
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/27-11-2024)
-- [NEW 'Off The Wall' ONLINE](https://2600.com/wall/26-11-2024)
 <!-- BLOG-POST-LIST:END -->
