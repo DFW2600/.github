@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [Does 2600 still meet in San Francisco? Where can I meet other hackers in the area?](https://www.reddit.com/r/2600/comments/1hwrcc8/does_2600_still_meet_in_san_francisco_where_can_i/)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/07-01-2025)
 - [COMBO PRINTED/DIGITAL SUBSCRIPTION DEALS ANNOUNCED](https://2600.com/content/combo-printeddigital-subscription-deals-announced)
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/01-01-2025)
 - [La Jolla, CA (No dial tone)](https://www.reddit.com/r/2600/comments/1hkzbzl/la_jolla_ca_no_dial_tone/)
-- [ALT 101.7 Possibly Hacked](https://www.reddit.com/r/2600/comments/1hk25q7/alt_1017_possibly_hacked/)
 <!-- BLOG-POST-LIST:END -->
