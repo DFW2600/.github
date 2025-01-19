@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [An array of blue boxes from the 1970s.](https://www.reddit.com/r/2600/comments/1i4oxfe/an_array_of_blue_boxes_from_the_1970s/)
 - [BlueSky](https://www.reddit.com/r/2600/comments/1i2ho69/bluesky/)
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/15-01-2025)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/14-01-2025)
 - [HOPE TICKETS GO ON SALE THURSDAY](https://2600.com/content/hope-tickets-go-sale-thursday)
-- [Tsociety Kali Linux Purple Hacker's Wallpaper](https://www.reddit.com/r/2600/comments/1i0m7a2/tsociety_kali_linux_purple_hackers_wallpaper/)
 <!-- BLOG-POST-LIST:END -->
