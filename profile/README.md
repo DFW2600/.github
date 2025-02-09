@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [Amiga 3000 running a 2-line BBS in 1994.](https://www.reddit.com/r/2600/comments/1ilmbzg/amiga_3000_running_a_2line_bbs_in_1994/)
 - [That time when Majordomo Trolled Ma Bell as James Bond](https://www.reddit.com/r/2600/comments/1il78ll/that_time_when_majordomo_trolled_ma_bell_as_james/)
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/05-02-2025)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/04-02-2025)
 - [does the 2600 in Vegas still meet?](https://www.reddit.com/r/2600/comments/1ib0bdm/does_the_2600_in_vegas_still_meet/)
-- [Si Señor Restaurant Las Cruces, NM (No Tone)](https://www.reddit.com/r/2600/comments/1iaz9ji/si_señor_restaurant_las_cruces_nm_no_tone/)
 <!-- BLOG-POST-LIST:END -->
