@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [Blue box designed and built by Woz and sold by Steve Jobs before they started Apple.](https://www.reddit.com/r/2600/comments/1ineb9o/blue_box_designed_and_built_by_woz_and_sold_by/)
 - [Phone home](https://www.reddit.com/r/2600/comments/1imjvzt/phone_home/)
 - [That time when Majordomo Trolled Ma Bell as James Bond](https://www.reddit.com/r/2600/comments/1il78ll/that_time_when_majordomo_trolled_ma_bell_as_james/)
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/05-02-2025)
-- [NEW 'Off The Wall' ONLINE](https://2600.com/wall/04-02-2025)
 - [does the 2600 in Vegas still meet?](https://www.reddit.com/r/2600/comments/1ib0bdm/does_the_2600_in_vegas_still_meet/)
 <!-- BLOG-POST-LIST:END -->
