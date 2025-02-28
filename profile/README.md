@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [Do you remember your first computer?](https://www.reddit.com/r/2600/comments/1j09yj5/do_you_remember_your_first_computer/)
 - [Montreal, QC](https://www.reddit.com/r/2600/comments/1iytwv3/montreal_qc/)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/25-02-2025)
 - [Fhone](https://www.reddit.com/r/2600/comments/1iw3hif/fhone/)
 - [[The Life Aquatic with Steve Zissou] (2005) "...see if you can get one of these dolphins to swim under the hull..."](https://www.reddit.com/r/2600/comments/1iu4jnj/the_life_aquatic_with_steve_zissou_2005_see_if/)
-- [I miss the ‘80s](https://www.reddit.com/r/2600/comments/1irx7qo/i_miss_the_80s/)
 <!-- BLOG-POST-LIST:END -->
