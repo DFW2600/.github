@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [Site of the former Pennsylvania Hotel in NYC](https://www.reddit.com/r/2600/comments/1j3fr12/site_of_the_former_pennsylvania_hotel_in_nyc/)
+- [You all ever play around with OLPCs?](https://www.reddit.com/r/2600/comments/1j3fdfz/you_all_ever_play_around_with_olpcs/)
 - [I was reading about sneakernets and came across this photo. It definitely brought back some memories.](https://www.reddit.com/r/2600/comments/1j2v5t3/i_was_reading_about_sneakernets_and_came_across/)
 - [Great combo!](https://www.reddit.com/r/2600/comments/1j0uqy7/great_combo/)
 - [Montreal, QC](https://www.reddit.com/r/2600/comments/1iytwv3/montreal_qc/)
-- [NEW 'Off The Wall' ONLINE](https://2600.com/wall/25-02-2025)
-- [Fhone](https://www.reddit.com/r/2600/comments/1iw3hif/fhone/)
 <!-- BLOG-POST-LIST:END -->
