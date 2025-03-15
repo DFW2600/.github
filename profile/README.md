@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [Color me surprised. I found a working payphone in Vancouver.](https://www.reddit.com/r/2600/comments/1jbndgt/color_me_surprised_i_found_a_working_payphone_in/)
 - [212 Area Codes are available with NYMobile.com](https://www.reddit.com/r/2600/comments/1jbcru4/212_area_codes_are_available_with_nymobilecom/)
 - [EARLY DEADLINE FOR HOPE TALK SUBMISSIONS IS MONDAY](https://2600.com/content/early-deadline-hope-talk-submissions-monday)
 - [[ Removed by Reddit ]](https://www.reddit.com/r/2600/comments/1jai7b7/removed_by_reddit/)
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/12-03-2025)
-- [2600 TWITTER ACCOUNT FROZEN OVER DOGE CONTACT LIST](https://2600.com/content/2600-twitter-account-frozen-over-doge-contact-list)
 <!-- BLOG-POST-LIST:END -->
