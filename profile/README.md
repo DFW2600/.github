@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [Do you consider internet access a basic human right?](https://www.reddit.com/r/2600/comments/1jelj54/do_you_consider_internet_access_a_basic_human/)
+- [NEW 'Off The Wall' ONLINE](https://2600.com/wall/18-03-2025)
 - [Old article](https://www.reddit.com/r/2600/comments/1jd1yjo/old_article/)
 - [Color me surprised. I found a working payphone in Vancouver.](https://www.reddit.com/r/2600/comments/1jbndgt/color_me_surprised_i_found_a_working_payphone_in/)
 - [212 Area Codes are available with NYMobile.com](https://www.reddit.com/r/2600/comments/1jbcru4/212_area_codes_are_available_with_nymobilecom/)
-- [EARLY DEADLINE FOR HOPE TALK SUBMISSIONS IS MONDAY](https://2600.com/content/early-deadline-hope-talk-submissions-monday)
-- [[ Removed by Reddit ]](https://www.reddit.com/r/2600/comments/1jai7b7/removed_by_reddit/)
 <!-- BLOG-POST-LIST:END -->
