@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [Spamming email](https://www.reddit.com/r/2600/comments/1jfpx1k/spamming_email/)
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/19-03-2025)
 - [HOPE poster in Hackers (1995)](https://www.reddit.com/r/2600/comments/1jfaera/hope_poster_in_hackers_1995/)
 - [Do you consider internet access a basic human right?](https://www.reddit.com/r/2600/comments/1jelj54/do_you_consider_internet_access_a_basic_human/)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/18-03-2025)
-- [Old article](https://www.reddit.com/r/2600/comments/1jd1yjo/old_article/)
 <!-- BLOG-POST-LIST:END -->
