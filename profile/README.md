@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
-- [Her: what’s your dream car? Me:](https://www.reddit.com/r/2600/comments/1jh12te/her_whats_your_dream_car_me/)
 - [Spamming email](https://www.reddit.com/r/2600/comments/1jfpx1k/spamming_email/)
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/19-03-2025)
 - [HOPE poster in Hackers (1995)](https://www.reddit.com/r/2600/comments/1jfaera/hope_poster_in_hackers_1995/)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/18-03-2025)
+- [Old article](https://www.reddit.com/r/2600/comments/1jd1yjo/old_article/)
 <!-- BLOG-POST-LIST:END -->
