@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [NEW 'Off The Hook' ONLINE](https://2600.com/hook/02-04-2025)
 - [HOPE FUNDRAISER FOR EFF IN APRIL](https://2600.com/content/hope-fundraiser-eff-april)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/01-04-2025)
-- [NEW 'Off The Hook' ONLINE](https://2600.com/hook/26-03-2025)
 - [Spamming email](https://www.reddit.com/r/2600/comments/1jfpx1k/spamming_email/)
 - [HOPE poster in Hackers (1995)](https://www.reddit.com/r/2600/comments/1jfaera/hope_poster_in_hackers_1995/)
 <!-- BLOG-POST-LIST:END -->
