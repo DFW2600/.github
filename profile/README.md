@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [Friend's iPhone 12 Pro stolen in Naples Italy— they managed to unlock it and steal money. How is this possible?](https://www.reddit.com/r/2600/comments/1jqtgfn/friends_iphone_12_pro_stolen_in_naples_italy_they/)
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/02-04-2025)
 - [HOPE FUNDRAISER FOR EFF IN APRIL](https://2600.com/content/hope-fundraiser-eff-april)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/01-04-2025)
 - [Spamming email](https://www.reddit.com/r/2600/comments/1jfpx1k/spamming_email/)
-- [HOPE poster in Hackers (1995)](https://www.reddit.com/r/2600/comments/1jfaera/hope_poster_in_hackers_1995/)
 <!-- BLOG-POST-LIST:END -->
