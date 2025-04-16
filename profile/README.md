@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [SPRING ISSUE OF 2600 RELEASED](https://2600.com/content/spring-issue-2600-released-19)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/15-04-2025)
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/09-04-2025)
 - [Dialtone!](https://www.reddit.com/r/2600/comments/1jv9440/dialtone/)
 - [Friend's iPhone 12 Pro stolen in Naples Italy— they managed to unlock it and steal money. How is this possible?](https://www.reddit.com/r/2600/comments/1jqtgfn/friends_iphone_12_pro_stolen_in_naples_italy_they/)
-- [HOPE FUNDRAISER FOR EFF IN APRIL](https://2600.com/content/hope-fundraiser-eff-april)
 <!-- BLOG-POST-LIST:END -->
