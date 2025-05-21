@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [Chauvin, Alberta, Canada - Has dial tone.](https://www.reddit.com/r/2600/comments/1krlzqy/chauvin_alberta_canada_has_dial_tone/)
+- [NEW 'Off The Wall' ONLINE](https://2600.com/wall/20-05-2025)
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/14-05-2025)
-- [NEW 'Off The Wall' ONLINE](https://2600.com/wall/13-05-2025)
 - [HOPE WORKSHOP SUBMISSIONS WILL CLOSE ON TUESDAY](https://2600.com/content/hope-workshop-submissions-will-close-tuesday)
 - [FIRST HOPE TALKS ANNOUNCED](https://2600.com/content/first-hope-talks-announced)
-- [~1/10 scale Bell Pay phone, with lights!](https://www.reddit.com/r/2600/comments/1k3udcm/110_scale_bell_pay_phone_with_lights/)
 <!-- BLOG-POST-LIST:END -->
