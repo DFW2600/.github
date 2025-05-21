@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pentagon City WiFi wants my household income??](https://www.reddit.com/r/2600/comments/1krub5m/pentagon_city_wifi_wants_my_household_income/)
 - [Chauvin, Alberta, Canada - Has dial tone.](https://www.reddit.com/r/2600/comments/1krlzqy/chauvin_alberta_canada_has_dial_tone/)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/20-05-2025)
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/14-05-2025)
 - [HOPE WORKSHOP SUBMISSIONS WILL CLOSE ON TUESDAY](https://2600.com/content/hope-workshop-submissions-will-close-tuesday)
-- [FIRST HOPE TALKS ANNOUNCED](https://2600.com/content/first-hope-talks-announced)
 <!-- BLOG-POST-LIST:END -->
