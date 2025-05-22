@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [Hacker Conference HOPE Says U.S. Immigration Crackdown Caused Massive Crash in Ticket Sales](https://www.reddit.com/r/2600/comments/1kszlxa/hacker_conference_hope_says_us_immigration/)
 - [HOPE_16 FINAL SPEAKER DEADLINE COMING SOON](https://2600.com/content/hope16-final-speaker-deadline-coming-soon)
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/21-05-2025)
 - [Pentagon City WiFi wants my household income??](https://www.reddit.com/r/2600/comments/1krub5m/pentagon_city_wifi_wants_my_household_income/)
 - [Chauvin, Alberta, Canada - Has dial tone.](https://www.reddit.com/r/2600/comments/1krlzqy/chauvin_alberta_canada_has_dial_tone/)
-- [NEW 'Off The Wall' ONLINE](https://2600.com/wall/20-05-2025)
 <!-- BLOG-POST-LIST:END -->
