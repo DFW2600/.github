@@ -6,9 +6,9 @@ Join us in [discord](https://dfw2600.dapla.net/chat) under #support or open an i
 
 ## Latest Reddit Posts
 <!-- BLOG-POST-LIST:START -->
+- [AT&T Telessentials Curriculum ISDN Basics TC1606](https://www.reddit.com/r/2600/comments/1l9fqie/att_telessentials_curriculum_isdn_basics_tc1606/)
 - [NEW 'Off The Hook' ONLINE](https://2600.com/hook/11-06-2025)
 - [NEW 'Off The Wall' ONLINE](https://2600.com/wall/10-06-2025)
 - [HOPE Question: When should I plan to arrive and leave?](https://www.reddit.com/r/2600/comments/1l7z4r6/hope_question_when_should_i_plan_to_arrive_and/)
 - [The Stockade’s Antique Phone Booth](https://www.reddit.com/r/2600/comments/1l64a2r/the_stockades_antique_phone_booth/)
-- [Vermonter repurposes old payphones for use in low-reception areas.](https://www.reddit.com/r/2600/comments/1l0afzd/vermonter_repurposes_old_payphones_for_use_in/)
 <!-- BLOG-POST-LIST:END -->
